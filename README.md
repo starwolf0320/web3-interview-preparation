@@ -1,6 +1,12 @@
-# Web3 Interview Preparation
+# Complete Web3 Interview Preparation
 
-- [Web3 Interview Preparation](#web3-interview-preparation)
+- [Complete Web3 Interview Preparation](#complete-web3-interview-preparation)
+  - [Why should you prepare](#why-should-you-prepare)
+  - [The best way to learn](#the-best-way-to-learn)
+    - [Where to learn (3 variants)](#where-to-learn-3-variants)
+    - [Process](#process)
+    - [Add custom answers](#add-custom-answers)
+  - [How to contribute](#how-to-contribute)
   - [Behavioral Interview](#behavioral-interview)
     - [Behavioral Questions](#behavioral-questions)
       - [About You](#about-you)
@@ -15,6 +21,32 @@
       - [Cryptography](#cryptography)
       - [Attacks](#attacks)
       - [Ethereum](#ethereum)
+    - [Coding Problems](#coding-problems)
+
+## Why should you prepare
+
+## The best way to learn
+
+### Where to learn (3 variants)
+
+- Open your GitHub fork in the browser
+- In your editor (maybe you need a markdown preview plugin)
+- Make flashcards -> recommended! (I use Anki, because of its space-repetition feature)
+
+### Process
+
+1. Read question
+2. Answer question in your head
+3. Reveal answer and check it
+4. Rate how good your answer was (optional -> only applicable with flashcards)
+
+### Add custom answers
+
+1. Fork the repository
+2. Clone your fork to the local environment
+3. You can now add custom answers for the behavioral interview and push your changes to your own repo
+
+## How to contribute
 
 ## Behavioral Interview
 
@@ -519,3 +551,5 @@
       </li>
     </ul>
 </details>
+
+### Coding Problems
