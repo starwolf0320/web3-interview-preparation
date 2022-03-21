@@ -1,16 +1,70 @@
 # Web3 Interview Preparation
 
 - [Web3 Interview Preparation](#web3-interview-preparation)
-  - [Web3 Questions (& Answers)](#web3-questions--answers)
-    - [Basics](#basics)
-    - [Blockchain and Blockchain alternatives](#blockchain-and-blockchain-alternatives)
-    - [Cryptography](#cryptography)
-    - [Attacks](#attacks)
-    - [Ethereum](#ethereum)
+  - [Behavioral Interview](#behavioral-interview)
+    - [Behavioral Questions](#behavioral-questions)
+      - [About You](#about-you)
+      - [Previous Experiences](#previous-experiences)
+      - [New Job](#new-job)
+      - [Your Turn](#your-turn)
+  - [Technical Interview](#technical-interview)
+    - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
+    - [Web3 Questions (& Answers)](#web3-questions--answers)
+      - [Basics](#basics)
+      - [Blockchain and Blockchain alternatives](#blockchain-and-blockchain-alternatives)
+      - [Cryptography](#cryptography)
+      - [Attacks](#attacks)
+      - [Ethereum](#ethereum)
 
-## Web3 Questions (& Answers)
+## Behavioral Interview
 
-### Basics
+### Behavioral Questions
+
+#### About You
+
+#### Previous Experiences
+
+#### New Job
+
+#### Your Turn
+
+<details>
+  <summary>What questions do you have for me?</summary>
+    <ul>
+      <li>
+        Do you pay salaries also in crypto?
+      </li>
+      <li>
+        How often does the team meet on site?
+      </li>
+      <li>
+        How many meetings do you have per week? How does an average day look like?
+      </li>
+      <li>
+        How is the work/life balance?
+      </li>
+      <li>
+        What does your dev cycle look like? Do you do waterfall/sprints/agile?
+      </li>
+      <li>
+        Are rushes to deadlines common? Or is there flexibility?
+      </li>
+      <li>
+        How are decisions made in your team?
+      </li>
+      <!-- <li>
+        add question here
+      </li> -->
+    </ul>
+</details>
+
+## Technical Interview
+
+### Full Stack Questions (& Answers)
+
+### Web3 Questions (& Answers)
+
+#### Basics
 
 <details>
   <summary>What is Web1?</summary>
@@ -164,7 +218,7 @@
     </ul>
 </details>
 
-### Blockchain and Blockchain alternatives
+#### Blockchain and Blockchain alternatives
 
 <details>
   <summary>What is a blockchain?</summary>
@@ -234,7 +288,7 @@
     </ul>
 </details>
 
-### Cryptography
+#### Cryptography
 
 <details>
   <summary>What is a merkle root? (BTC)</summary>
@@ -261,7 +315,7 @@
     </ul>
 </details>
 
-### Attacks
+#### Attacks
 
 <details>
   <summary>What is a 51% attack?</summary>
@@ -272,7 +326,7 @@
     </ul>
 </details>
 
-### Ethereum
+#### Ethereum
 
 <details>
   <summary>What is Ethereum?</summary>
