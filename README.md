@@ -23,6 +23,9 @@
       - [Ethereum](#ethereum)
     - [Coding Problems](#coding-problems)
 
+> Although I spent a lot of time curating the answers I can not guarantee for their correctness.
+> If you find an error, please propose an improved solution in the discussion section.
+
 ## Why should you prepare
 
 ## The best way to learn
@@ -48,7 +51,11 @@
 
 ## How to contribute
 
+> 🏗 Under construction!
+
 ## Behavioral Interview
+
+> 🏗 Under construction!
 
 ### Behavioral Questions
 
@@ -94,6 +101,8 @@
 
 ### Full Stack Questions (& Answers)
 
+> 🏗 Under construction!
+
 ### Web3 Questions (& Answers)
 
 #### Basics
@@ -119,7 +128,7 @@
   <summary>What is Web3?</summary>
     <ul>
       <li>
-        I'd it call it the decentralized internet. It provides native built-in payments while still being self-governing
+        I'd call it the decentralized internet. It provides native built-in payments while still being self-governing
       </li>
     </ul>
 </details>
@@ -143,7 +152,7 @@
   <summary>What is a decentralized ledger?</summary>
     <ul>
       <li>
-        I would describe it as a database that gets save from a group of people and is updated in regular blocks of time
+        I would describe it as a database that gets saved from a group of people and is updated in regular blocks of time
       </li>
     </ul>
 </details>
@@ -154,10 +163,10 @@
         DAO is an acronym for Decentralized Autonomous Organization
       </li>
       <li>
-        Is an organization that’s governed by code instead of leaders
+        It is an organization that’s governed by code instead of leaders
       </li>
       <li>
-        DAO in its simplest for can be described as a group chat with a shared bank account
+        A DAO in its simplest for can be described as a group chat with a shared bank account
       </li>
     </ul>
 </details>
@@ -168,7 +177,7 @@
         NFTs are unique digital asset like artworks and collectibles. Non fungible tokens are not interchangeable
       </li>
       <li>
-        FungibleTokens like Ether or Bitcoin on the other hand are divisible and replaceable
+        Fungible tokens like Ether or Bitcoin on the other hand are divisible and replaceable
       </li>
     </ul>
 </details>
@@ -193,7 +202,7 @@
         A layer 1 network describes the underlying "main" blockchain that is the ultimately source of truth and is responsible for the settlement of transactions
       </li>
       <li>
-        Layer 2 networks extend the functionality of their layer 1 counterpart. For example increase the transaction speed or lower transaction costs. A layer-2 solution is not a blockchain! (e.g Arbitrum for Ethereum)
+        Layer 2 networks extend the functionality of their layer 1 counterpart. For example increase the transaction speed or lower transaction costs. A layer 2 solution is not a blockchain! (e.g Arbitrum for Ethereum)
       </li>
       <li>
         Hint: Layer 1 solutions without scaling limitations usually don't need scaling solutions
@@ -223,10 +232,10 @@
     </ul>
 </details>
 <details>
-  <summary>What is a crypto wallets?</summary>
+  <summary>What is a crypto wallet?</summary>
     <ul>
       <li>
-        Crypto wallets store your private key and lets you allowing you to send and receive cryptocurrencies
+        Crypto wallets store your private key and lets you send and receive cryptocurrencies
       </li>
       <li>
         Crypto wallets technically don’t store your crypto! If you lose your private keys, you lose access to your money and not the money itself
@@ -245,7 +254,7 @@
   <summary>What are dApps?</summary>
     <ul>
       <li>
-        Decentralized applications (dApps) are digital applications that exist and run on a peer to peer(P2P) network of computers instead of a single computer
+        Decentralized applications (dApps) are digital applications that exist and run on a peer to peer (P2P) network of computers instead of a single computer
       </li>
     </ul>
 </details>
@@ -272,7 +281,7 @@
     </ul>
 </details>
 <details>
-  <summary>Tell me the three factors of the blockchain trillema?</summary>
+  <summary>Tell me the three factors of the blockchain trilemma?</summary>
     <ul>
       <li>
         security, decentralization, and scalability -> you can only choose two!
@@ -503,7 +512,7 @@
     </ul>
 </details>
 <details>
-  <summary>Why is Gas Fees taken?</summary>
+  <summary>Why are gas fees taken?</summary>
     <ul>
       <li>
         The creation of consensus in a decentralised system must cost something, because it motivates all participants to save the optimal reality
@@ -553,3 +562,5 @@
 </details>
 
 ### Coding Problems
+
+> 🏗 Under construction!
