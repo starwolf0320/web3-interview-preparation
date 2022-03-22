@@ -6,29 +6,29 @@
 
 # Complete Web3 Interview Preparation Guide
 
-- [Complete Web3 Interview Preparation Guide](#complete-web3-interview-preparation-guide)
-  - [Why should you prepare](#why-should-you-prepare)
-  - [The best way to learn](#the-best-way-to-learn)
-    - [Where to learn (3 variants)](#where-to-learn-3-variants)
-    - [Process](#process)
-    - [Add custom answers](#add-custom-answers)
-  - [How to contribute](#how-to-contribute)
-  - [Behavioral Interview](#behavioral-interview)
-    - [Behavioral Questions](#behavioral-questions)
-      - [About You](#about-you)
-      - [Previous Experiences](#previous-experiences)
-      - [New Job](#new-job)
-      - [Your Turn](#your-turn)
-  - [Technical Interview](#technical-interview)
-    - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
-    - [Web3 Questions (& Answers)](#web3-questions--answers)
-      - [Basics](#basics)
-      - [Blockchain and Blockchain alternatives](#blockchain-and-blockchain-alternatives)
-      - [Cryptography](#cryptography)
-      - [Attacks](#attacks)
-      - [Ethereum](#ethereum)
-        - [Solidity](#solidity)
-    - [Coding Problems](#coding-problems)
+- [Why should you prepare](#why-should-you-prepare)
+- [The best way to learn](#the-best-way-to-learn)
+  - [Where to learn (3 variants)](#where-to-learn-3-variants)
+  - [Process](#process)
+  - [Add custom answers](#add-custom-answers)
+- [How to contribute](#how-to-contribute)
+- [Behavioral Interview](#behavioral-interview)
+  - [Behavioral Questions](#behavioral-questions)
+    - [About You](#about-you)
+    - [Previous Experiences](#previous-experiences)
+    - [New Job](#new-job)
+    - [Ask the employer](#ask-the-employer)
+- [Technical Interview](#technical-interview)
+  - [Previous Experiences](#previous-experiences-1)
+  - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
+  - [Web3 Questions (& Answers)](#web3-questions--answers)
+    - [Basics](#basics)
+    - [Blockchain and Blockchain alternatives](#blockchain-and-blockchain-alternatives)
+    - [Cryptography](#cryptography)
+    - [Attacks](#attacks)
+    - [Ethereum](#ethereum)
+      - [Solidity](#solidity)
+  - [Coding Problems](#coding-problems)
 
 > Although I spent a lot of time curating the answers I can not guarantee for their correctness.
 > If you find an error, please propose an improved solution in the discussion section.
@@ -62,15 +62,13 @@
 
 ## Behavioral Interview
 
-> 🏗 Under construction!
-
 ### Behavioral Questions
 
 #### About You
 
 <details>
   <summary>Tell me about yourself</summary>
-  Similar questions: Describe yourself
+  Similar question: Describe yourself
     <!-- <ul>
       <li>
         add answer here
@@ -119,7 +117,7 @@
 </details>
 <details>
   <summary>What are your professional goals?</summary>
-    Similar questions: Where do you see yourself in five years?
+    Similar question: Where do you see yourself in five years?
     <!-- <ul>
       <li>
         add answer here
@@ -160,7 +158,7 @@
 </details>
 <details>
   <summary>What motivates you?</summary>
-    Similar questions: What gets you up in the morning?
+    Similar question: What gets you up in the morning?
     <!-- <ul>
       <li>
         add answer here
@@ -177,7 +175,7 @@
 </details>
 <details>
   <summary>What are your career goals?</summary>
-    Similar questions: Where do you see yourself in five years?
+    Similar question: Where do you see yourself in five years?
     <!-- <ul>
       <li>
         add answer here
@@ -202,7 +200,7 @@
 </details>
 <details>
   <summary>What are your hobbies?</summary>
-    Similar questions: What is something you like to do outside of work?
+    Similar question: What is something you like to do outside of work?
     <!-- <ul>
       <li>
         add answer here
@@ -391,24 +389,6 @@
     </ul> -->
 </details>
 <details>
-  <summary>What was the hardest bug you faced at [job x / project y]?</summary>
-    <!-- <ul>
-      <li>
-        add answer here
-      </li>
-    </ul> -->
-</details>
-<details>
-  <summary>What was the biggest challenge you faced at [job x / project y]?</summary>
-    Similar question: What's a tough problem you've solved?
-    Tipp: Focus on how the challenge was solved, not the challenge itself
-    <!-- <ul>
-      <li>
-        add answer here
-      </li>
-    </ul> -->
-</details>
-<details>
   <summary>Tell me about a time when you disagreed with your boss</summary>
     <!-- <ul>
       <li>
@@ -533,7 +513,7 @@
     </ul> -->
 </details>
 
-#### Your Turn
+#### Ask the employer
 
 <details>
   <summary>What questions do you have for me?</summary>
@@ -566,6 +546,45 @@
 </details>
 
 ## Technical Interview
+
+### Previous Experiences
+
+Employers like to ask questions related to your application. So go over your resume and and think about 5 to 10 followup questions a potential employer could ask. Being prepared for such question shows that you know what you were doing. Be ready to answer a bit more technical questions related to your recent experiences. Two examples:
+
+<details>
+  <summary>Why did you choose to use [technology x] in your project? What were the advantages over similar packages?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What would you do differently in [project x] if you had the knowledge you have now?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What was the hardest bug you faced at [job x / project y]?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What was the biggest challenge you faced at [job x / project y]?</summary>
+    Similar question: What's a tough problem you've solved?
+    Tipp: Focus on how the challenge was solved, not the challenge itself
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
 
 ### Full Stack Questions (& Answers)
 
