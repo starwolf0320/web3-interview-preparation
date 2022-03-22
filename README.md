@@ -1,6 +1,12 @@
-# Complete Web3 Interview Preparation
+<!--
+  Title: Complete Web3 Interview Preparation Guide
+  Description: A complete web3 guide that prepares you for interviews and will help you land your dream job.
+  Author: @noahliechti
+  -->
 
-- [Complete Web3 Interview Preparation](#complete-web3-interview-preparation)
+# Complete Web3 Interview Preparation Guide
+
+- [Complete Web3 Interview Preparation Guide](#complete-web3-interview-preparation-guide)
   - [Why should you prepare](#why-should-you-prepare)
   - [The best way to learn](#the-best-way-to-learn)
     - [Where to learn (3 variants)](#where-to-learn-3-variants)
@@ -21,6 +27,7 @@
       - [Cryptography](#cryptography)
       - [Attacks](#attacks)
       - [Ethereum](#ethereum)
+        - [Solidity](#solidity)
     - [Coding Problems](#coding-problems)
 
 > Although I spent a lot of time curating the answers I can not guarantee for their correctness.
@@ -60,6 +67,212 @@
 ### Behavioral Questions
 
 #### About You
+
+<details>
+  <summary>Tell me about yourself</summary>
+  Similar questions: Describe yourself
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Discuss your resume</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What should we know about you that's not listed on your resume?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Tell me something interesting about yourself</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What are your greatest strengths?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What is your greatest weakness?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What are your professional goals?</summary>
+    Similar questions: Where do you see yourself in five years?
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Tell me about an accomplishment you are most proud of</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What was your biggest failure?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Tell me about a time you made a mistake</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What is your dream job?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What motivates you?</summary>
+    Similar questions: What gets you up in the morning?
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What are you most passionate about?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What are your career goals?</summary>
+    Similar questions: Where do you see yourself in five years?
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Are you a leader or a follower?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What was the last book you’ve read for fun?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What are your hobbies?</summary>
+    Similar questions: What is something you like to do outside of work?
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What makes you uncomfortable?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>How would you fire someone?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What do you like the most and least about working in this industry?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Do you prefer to work on your own or as part of a team?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>How would you deal with an angry or irate customer?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Who’s your mentor?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>How do you handle pressure?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>How do you organize multiple deadlines?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
 
 #### Previous Experiences
 
@@ -166,7 +379,7 @@
         It is an organization that’s governed by code instead of leaders
       </li>
       <li>
-        A DAO in its simplest for can be described as a group chat with a shared bank account
+        A DAO in its simplest form can be described as a group chat with a shared bank account
       </li>
     </ul>
 </details>
@@ -199,7 +412,7 @@
   <summary>What is the difference between layer 1 and layer 2 networks?</summary>
     <ul>
       <li>
-        A layer 1 network describes the underlying "main" blockchain that is the ultimately source of truth and is responsible for the settlement of transactions
+        A layer 1 network describes the underlying "main" blockchain that is the ultimate source of truth and is responsible for the settlement of transactions
       </li>
       <li>
         Layer 2 networks extend the functionality of their layer 1 counterpart. For example increase the transaction speed or lower transaction costs. A layer 2 solution is not a blockchain! (e.g Arbitrum for Ethereum)
@@ -520,14 +733,6 @@
     </ul>
 </details>
 <details>
-  <summary>Why should a developer define a solidity version at the beginning of a file?</summary>
-    <ul>
-      <li>
-        It reduces incompatibility glitches that can occur while compiling with another version
-      </li>
-    </ul>
-</details>
-<details>
   <summary>How can the transaction fees be calculated?</summary>
     <ul>
       <li>
@@ -557,6 +762,17 @@
     <ul>
       <li>
         They are stored as bytecode (=binary data) under a specific address also known as contract address
+      </li>
+    </ul>
+</details>
+
+##### Solidity
+
+<details>
+  <summary>Why should a developer define a solidity version at the beginning of a file?</summary>
+    <ul>
+      <li>
+        It reduces incompatibility glitches that can occur while compiling with another version
       </li>
     </ul>
 </details>
