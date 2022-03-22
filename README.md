@@ -6,29 +6,30 @@
 
 # Complete Web3 Interview Preparation Guide
 
-- [Why should you prepare](#why-should-you-prepare)
-- [The best way to learn](#the-best-way-to-learn)
-  - [Where to learn (3 variants)](#where-to-learn-3-variants)
-  - [Process](#process)
-  - [Add custom answers](#add-custom-answers)
-- [How to contribute](#how-to-contribute)
-- [Behavioral Interview](#behavioral-interview)
-  - [Behavioral Questions](#behavioral-questions)
-    - [About You](#about-you)
-    - [Previous Experiences](#previous-experiences)
-    - [New Job](#new-job)
-    - [Ask the employer](#ask-the-employer)
-- [Technical Interview](#technical-interview)
-  - [Previous Experiences](#previous-experiences-1)
-  - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
-  - [Web3 Questions (& Answers)](#web3-questions--answers)
-    - [Basics](#basics)
-    - [Blockchain and Blockchain alternatives](#blockchain-and-blockchain-alternatives)
-    - [Cryptography](#cryptography)
-    - [Attacks](#attacks)
-    - [Ethereum](#ethereum)
-      - [Solidity](#solidity)
-  - [Coding Problems](#coding-problems)
+- [Complete Web3 Interview Preparation Guide](#complete-web3-interview-preparation-guide)
+  - [Why should you prepare](#why-should-you-prepare)
+  - [The best way to learn](#the-best-way-to-learn)
+    - [Add custom answers](#add-custom-answers)
+    - [Where to learn (3 variants)](#where-to-learn-3-variants)
+    - [Process](#process)
+  - [How to contribute](#how-to-contribute)
+  - [Behavioral Interview](#behavioral-interview)
+    - [Behavioral Questions](#behavioral-questions)
+      - [About You](#about-you)
+      - [Previous Experiences](#previous-experiences)
+      - [New Job](#new-job)
+      - [Ask the employer](#ask-the-employer)
+  - [Technical Interview](#technical-interview)
+    - [Previous Experiences](#previous-experiences-1)
+    - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
+    - [Web3 Questions (& Answers)](#web3-questions--answers)
+      - [Basics](#basics)
+      - [Blockchain and Blockchain alternatives](#blockchain-and-blockchain-alternatives)
+      - [Cryptography](#cryptography)
+      - [Attacks](#attacks)
+      - [Ethereum](#ethereum)
+        - [Solidity](#solidity)
+    - [Coding Problems](#coding-problems)
 
 > Although I spent a lot of time curating the answers I can not guarantee for their correctness.
 > If you find an error, please propose an improved solution in the discussion section.
@@ -36,6 +37,12 @@
 ## Why should you prepare
 
 ## The best way to learn
+
+### Add custom answers
+
+1. Fork the repository
+2. Clone your fork to the local environment
+3. You can now add custom answers for the behavioral interview and push your changes to your own repo
 
 ### Where to learn (3 variants)
 
@@ -46,15 +53,9 @@
 ### Process
 
 1. Read question
-2. Answer question in your head
+2. Answer question **out loud**
 3. Reveal answer and check it
 4. Rate how good your answer was (optional -> only applicable with flashcards)
-
-### Add custom answers
-
-1. Fork the repository
-2. Clone your fork to the local environment
-3. You can now add custom answers for the behavioral interview and push your changes to your own repo
 
 ## How to contribute
 
@@ -741,7 +742,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What are dApps?</summary>
     <ul>
       <li>
-        Decentralized applications (dApps) are digital applications that have their backend code (smart contracts) running on a decentralized network and not a centralized server.
+        Decentralized applications (dApps) are digital applications that have their backend code (smart contracts) running on a decentralized network and not a centralized server
       </li>
     </ul>
 </details>
@@ -752,10 +753,13 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What is a blockchain?</summary>
     <ul>
       <li>
-        a blockchain is a digital file consisting of files that is consistently growing. all records are linked together using cryptography. blocks contain information about the block previous to it. For a blockchain to be decentralised it has to be distributed to group of people and it has to be updated in regular blocks of time
+        A blockchain is a digital file consisting of records. The number of records is growing in regular blocks of time. All records are linked together using cryptography
       </li>
       <li>
-        blockchains are resistant to modification of their data
+        For a blockchain to be decentralised it has to be distributed to group of people
+      </li>
+      <li>
+        Blockchains are resistant to modification of their data
       </li>
     </ul>
 </details>
@@ -787,7 +791,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>Explain a blockchain alternative</summary>
     <ul>
       <li>
-       Directed Acyclic Graph (DAG), dag transaction are linked to one and another directly instead of being group and processed in blocks. This makes dags more scalable than blockchains in theory
+       Transactions in a Directed Acyclic Graph (DAG) are linked to one and another directly instead of being grouped and processed in blocks. This makes DAGs more scalable than blockchains in theory
       </li>
     </ul>
 </details>
@@ -795,7 +799,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>Can you “hide” a transaction on a blockchain?</summary>
     <ul>
       <li>
-        Transaction can't be hidden. All transactions are visible to everyone
+        Transaction can't be hidden. All transactions are public
       </li>
     </ul>
 </details>
@@ -803,12 +807,15 @@ Employers like to ask questions related to your application. So go over your res
   <summary>Where are transactions stored in a blockchain?</summary>
     <ul>
       <li>
-        In a blockchain, transactions are stored in a "block" of a public ledger
+        In a blockchain, a transaction is stored in a "block"
+      </li>
+      <li>
+        This blocks are stored on nodes that are part of the network
       </li>
     </ul>
 </details>
 <details>
-  <summary>What is a Miner?</summary>
+  <summary>What is a miner?</summary>
     <ul>
       <li>
        Miners are nodes, who receive rewards for verifying transactions and marinating network integrity
@@ -868,7 +875,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What is Ether?</summary>
     <ul>
       <li>
-        Ether is Ethereum’s native cryptocurrency for the Ethereum platform
+        Ether is Ethereum’s native cryptocurrency
       </li>
     </ul>
 </details>
@@ -876,7 +883,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>How does Ethereum differ from Bitcoin?</summary>
     <ul>
       <li>
-        Ethereum utilizes blockchain technology not only for maintaining a decentralized payment network but also for storing computer code that can be used to power tamper-proof decentralized financial contracts and applications
+        Ethereum utilizes blockchain technology not only for maintaining a decentralized payment network but also for storing computer code that can be used to power tamper-proof decentralized contracts and applications
       </li>
     </ul>
 </details>
@@ -884,7 +891,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What are smart contracts?</summary>
     <ul>
       <li>
-        Smart contract are computer code that when deployed onto the Ethereum platform run when predetermined conditions are met. The code can not be updated or deleted once deployed
+        Smart contracts are computer code that when deployed onto the Ethereum platform run when predetermined conditions are met. The code can not be updated or deleted once deployed
       </li>
     </ul>
 </details>
