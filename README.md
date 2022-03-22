@@ -549,7 +549,7 @@
 
 ### Previous Experiences
 
-Employers like to ask questions related to your application. So go over your resume and and think about 5 to 10 followup questions a potential employer could ask. Being prepared for such question shows that you know what you were doing. Be ready to answer a bit more technical questions related to your recent experiences. Two examples:
+Employers like to ask questions related to your application. So go over your resume and and think about 5 to 10 followup questions a potential employer could ask. Being prepared for such question shows that you know what you were doing. Be ready to answer a bit more technical questions related to your recent experiences. Some examples:
 
 <details>
   <summary>Why did you choose to use [technology x] in your project? What were the advantages over similar packages?</summary>
@@ -689,7 +689,7 @@ Employers like to ask questions related to your application. So go over your res
         A layer 1 network describes the underlying "main" blockchain that is the ultimate source of truth and is responsible for the settlement of transactions
       </li>
       <li>
-        Layer 2 networks extend the functionality of their layer 1 counterpart. For example increase the transaction speed or lower transaction costs. A layer 2 solution is not a blockchain! (e.g Arbitrum for Ethereum)
+        Layer 2 networks extend the functionality of their layer 1 counterpart. For example they increase the transaction speed or lower transaction costs. A layer 2 solution is not a blockchain! (e.g Arbitrum for Ethereum)
       </li>
       <li>
         Hint: Layer 1 solutions without scaling limitations usually don't need scaling solutions
@@ -722,7 +722,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What is a crypto wallet?</summary>
     <ul>
       <li>
-        Crypto wallets store your private key and lets you send and receive cryptocurrencies
+        Crypto wallets store your private key and let you send and receive cryptocurrencies using a beautiful UI
       </li>
       <li>
         Crypto wallets technically don’t store your crypto! If you lose your private keys, you lose access to your money and not the money itself
@@ -741,7 +741,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What are dApps?</summary>
     <ul>
       <li>
-        Decentralized applications (dApps) are digital applications that exist and run on a peer to peer (P2P) network of computers instead of a single computer
+        Decentralized applications (dApps) are digital applications that have their backend code (smart contracts) running on a decentralized network and not a centralized server.
       </li>
     </ul>
 </details>
