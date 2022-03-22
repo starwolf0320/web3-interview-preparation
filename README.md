@@ -276,6 +276,147 @@
 
 #### Previous Experiences
 
+<details>
+  <summary>Discuss your educational background</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Tell me how you handled a difficult situation</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Why are you leaving your current role?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Why are you looking for a new job?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Why was there a gap in your employment between [insert date] and [insert date]?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Give a time when you went above and beyond the requirements for a project</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What were your bosses’ strengths/weaknesses?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What are three things your former manager would like you to improve on?</summary>
+    Similar question: What are your co-worker pet peeves?
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What five words would your colleagues use to describe you?</summary>
+    Similar question: What would your direct reports say about you?
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What are some of your leadership experiences?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What is your leadership style?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What did you learn at [job x / project y]?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What did you most enjoy at [job x / project y]?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What would you have done better at [job x / project y]?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What was the hardest bug you faced at [job x / project y]?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What was the biggest challenge you faced at [job x / project y]?</summary>
+    Similar question: What's a tough problem you've solved?
+    Tipp: Focus on how the challenge was solved, not the challenge itself
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Tell me about a time when you disagreed with your boss</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+
 #### New Job
 
 #### Your Turn
