@@ -419,6 +419,120 @@
 
 #### New Job
 
+<details>
+  <summary>Why this company?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Why do you want this job?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Why should we hire you?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What can you offer us that someone else can not?</summary>
+  Similar question: Which of your skills or experiences would be assets in the role and why?
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>How did you hear about this position?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What would you look to accomplish in the first 30 days/60 days/90 days on the job?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Are you willing to relocate?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Are you willing to travel?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Would you work holidays/weekends?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Would you work 40+ hours a week?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What are your salary requirements?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What’s your availability?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What is the name of our CEO?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>Who are our competitors?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+
 #### Your Turn
 
 <details>
