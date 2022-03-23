@@ -47,7 +47,8 @@
 
 - Open your GitHub fork in the browser
 - In your editor (maybe you need a markdown preview plugin)
-- Make flashcards -> recommended! (I use Anki, because of its space-repetition feature)
+- Make flashcards -> recommended!
+  - I use Anki, because of its space-repetition feature -> Anki deck coming soon
 
 ### Process
 
@@ -1015,7 +1016,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>How can the transaction fees be calculated?</summary>
     <ul>
       <li>
-        Gas Limit \* Gas Price (Wei)
+        Gas Limit * Gas Price (Wei)
       </li>
     </ul>
 </details>
@@ -1026,13 +1027,24 @@ Employers like to ask questions related to your application. So go over your res
         ABI is an acronym for Application Binary Interface
       </li>
       <li>
-        The ABI is needed to access the bytecode (contracts are stored as bytecode on the blockchain)
+        The ABI is the interface to interact with our smart contract
       </li>
       <li>
-        The ABI defines which function you can invoke
+        The ABI can be generated from your smart contract source code (you have to compile it)
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What do I need to interact with a deployed smart contract?</summary>
+    <ul>
+      <li>
+        You need the contract address and the ABI
       </li>
       <li>
-        It can be generated from your smart contract
+       The contract address points to the place where the bytecode is located on the blockchain
+      </li>
+      <li>
+       The ABI defines which functions you can invoke
       </li>
     </ul>
 </details>
@@ -1052,6 +1064,14 @@ Employers like to ask questions related to your application. So go over your res
     <ul>
       <li>
         It reduces incompatibility glitches that can occur while compiling with another version
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>Why do smart contracts written in Solidity or Viper need to be compiled?</summary>
+    <ul>
+      <li>
+        The EVM doesn't "understand" these high-level languages. Therefor the source code has to be translated to EVM executable bytecode
       </li>
     </ul>
 </details>
