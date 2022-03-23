@@ -6,30 +6,29 @@
 
 # Complete Web3 Interview Preparation Guide
 
-- [Complete Web3 Interview Preparation Guide](#complete-web3-interview-preparation-guide)
-  - [Why should you prepare](#why-should-you-prepare)
-  - [The best way to learn](#the-best-way-to-learn)
-    - [Add custom answers](#add-custom-answers)
-    - [Where to learn (3 variants)](#where-to-learn-3-variants)
-    - [Process](#process)
-  - [How to contribute](#how-to-contribute)
-  - [Behavioral Interview](#behavioral-interview)
-    - [Behavioral Questions](#behavioral-questions)
-      - [About You](#about-you)
-      - [Previous Experiences](#previous-experiences)
-      - [New Job](#new-job)
-      - [Ask the employer](#ask-the-employer)
-  - [Technical Interview](#technical-interview)
-    - [Previous Experiences](#previous-experiences-1)
-    - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
-    - [Web3 Questions (& Answers)](#web3-questions--answers)
-      - [Basics](#basics)
-      - [Blockchain and Blockchain alternatives](#blockchain-and-blockchain-alternatives)
-      - [Cryptography](#cryptography)
-      - [Attacks](#attacks)
-      - [Ethereum](#ethereum)
-        - [Solidity](#solidity)
-    - [Coding Problems](#coding-problems)
+- [Why should you prepare](#why-should-you-prepare)
+- [The best way to learn](#the-best-way-to-learn)
+  - [Add custom answers](#add-custom-answers)
+  - [Where to learn (3 variants)](#where-to-learn-3-variants)
+  - [Process](#process)
+- [How to contribute](#how-to-contribute)
+- [Behavioral Interview](#behavioral-interview)
+  - [Behavioral Questions](#behavioral-questions)
+    - [About You](#about-you)
+    - [Previous Experiences](#previous-experiences)
+    - [New Job](#new-job)
+    - [Ask the employer](#ask-the-employer)
+- [Technical Interview](#technical-interview)
+  - [Previous Experiences](#previous-experiences-1)
+  - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
+  - [Web3 Questions (& Answers)](#web3-questions--answers)
+    - [Basics](#basics)
+    - [Blockchain and Blockchain alternatives](#blockchain-and-blockchain-alternatives)
+    - [Cryptography](#cryptography)
+    - [Attacks](#attacks)
+    - [Ethereum](#ethereum)
+      - [Solidity](#solidity)
+  - [Coding Problems](#coding-problems)
 
 > Although I spent a lot of time curating the answers I can not guarantee for their correctness.
 > If you find an error, please propose an improved solution in the discussion section.
@@ -40,9 +39,9 @@
 
 ### Add custom answers
 
-1. Fork the repository
-2. Clone your fork to the local environment
-3. You can now add custom answers for the behavioral interview and push your changes to your own repo
+1. [Fork this repository](https://github.com/noahliechti/web3-interview-preparation/fork)
+2. Clone your fork to your local environment
+3. You can now add custom answers for the behavioral interview and push your changes to your own repo. If you want you can also add additional questions and answers for the other sections
 
 ### Where to learn (3 variants)
 
@@ -64,6 +63,8 @@
 ## Behavioral Interview
 
 ### Behavioral Questions
+
+> [Fork this repository](https://github.com/noahliechti/web3-interview-preparation/fork) and add your own answers. This makes practising easier!
 
 #### About You
 
@@ -756,10 +757,7 @@ Employers like to ask questions related to your application. So go over your res
         A blockchain is a digital file consisting of records. The number of records is growing in regular blocks of time. All records are linked together using cryptography
       </li>
       <li>
-        For a blockchain to be decentralised it has to be distributed to group of people
-      </li>
-      <li>
-        Blockchains are resistant to modification of their data
+        For a blockchain to be decentralised it has to be distributed to a group of people
       </li>
     </ul>
 </details>
@@ -826,7 +824,7 @@ Employers like to ask questions related to your application. So go over your res
 #### Cryptography
 
 <details>
-  <summary>What is a merkle root? (BTC)</summary>
+  <summary>What is a merkle root?</summary>
     <ul>
       <li>
        The merkle root it the root hash of a merkle tree. The merkle root is put into the block header of a block
@@ -842,10 +840,10 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 <details>
-  <summary>Why are merkle trees so important?</summary>
+  <summary>Why are merkle trees so important in BTC?</summary>
     <ul>
       <li>
-        If Bitcoin didn’t have Merkle Trees, every node on the network would need to maintain a full copy of every transaction that has ever happened on Bitcoin
+        If Bitcoin didn’t have Merkle Trees, every node on the network would need to maintain a full copy of every transaction that has ever happened in Bitcoin
       </li>
     </ul>
 </details>
@@ -883,7 +881,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>How does Ethereum differ from Bitcoin?</summary>
     <ul>
       <li>
-        Ethereum utilizes blockchain technology not only for maintaining a decentralized payment network but also for storing computer code that can be used to power tamper-proof decentralized contracts and applications
+        Ethereum utilizes blockchain technology not only for maintaining a decentralized payment network but also for storing computer code that can be used to power tamper-proof decentralized smart contracts
       </li>
     </ul>
 </details>
