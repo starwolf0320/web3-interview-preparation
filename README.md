@@ -809,7 +809,7 @@ Employers like to ask questions related to your application. So go over your res
         In a blockchain, a transaction is stored in a "block"
       </li>
       <li>
-        This blocks are stored on nodes that are part of the network
+        This blocks are saved on nodes that are part of the network
       </li>
     </ul>
 </details>
@@ -828,12 +828,15 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What is a merkle root?</summary>
     <ul>
       <li>
-       The merkle root it the root hash of a merkle tree. The merkle root is put into the block header of a block
+       The merkle root is the root hash of a merkle tree
+      </li>
+      <li>
+       The merkle root is put into the block header of a block
       </li>
     </ul>
 </details>
 <details>
-  <summary>What role do transactions play in a merkle tree?</summary>
+  <summary>What role do transactions hashes play in a merkle tree?</summary>
     <ul>
       <li>
         In a merkle tree, the the transaction hashes are considered the leaves. Each non-leaf node (branch) is a hash of its child hashes
@@ -844,7 +847,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>Why are merkle trees so important in BTC?</summary>
     <ul>
       <li>
-        If Bitcoin didn’t have Merkle Trees, every node on the network would need to maintain a full copy of every transaction that has ever happened in Bitcoin
+        If Bitcoin didn’t have merkle trees, every node on the network would need to maintain a full copy of every transaction that has ever happened in Bitcoin
       </li>
     </ul>
 </details>
@@ -855,7 +858,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What is a 51% attack?</summary>
     <ul>
       <li>
-        If the hacker is able to control 51% or more of the nodes, it will gain control over the entire network
+        If a hacker is able to control 51% or more of the nodes, he will gain control over the entire network
       </li>
     </ul>
 </details>
@@ -866,7 +869,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What is Ethereum?</summary>
     <ul>
       <li>
-        Ethereum is a decentralized, open-source blockchain with smart contract functionality.
+        Ethereum is a decentralized, open-source blockchain with smart contract functionality
       </li>
     </ul>
 </details>
@@ -1071,7 +1074,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>Why do smart contracts written in Solidity or Viper need to be compiled?</summary>
     <ul>
       <li>
-        The EVM doesn't "understand" these high-level languages. Therefor the source code has to be translated to EVM executable bytecode
+        The EVM doesn't understand these high-level languages. Therefor the source code has to be translated into machine language (bytecode) that the EVM is able to execute
       </li>
     </ul>
 </details>
