@@ -1,64 +1,65 @@
 <!--
-  Title: Complete Web3 Interview Preparation Guide
+  Title: Complete Web3 Interview Preparation Guide (with Answers)
   Description: A complete web3 guide that prepares you for interviews and will help you land your dream job.
   Author: @noahliechti
   -->
 
-# Complete Web3 Interview Preparation Guide
+# Complete Web3 Interview Preparation Guide (with Answers)
 
 [![Licence](https://img.shields.io/github/license/noahliechti/web3-interview-preparation?style=social)](https://github.com/noahliechti/web3-interview-preparation/blob/main/LICENSE)
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](http://twitter.com/intent/tweet?text=Check%20out%20the%20complete%20Web3%20Interview%20Preparation%20Guide%20made%20by%20%40noahliechti&url=https://github.com/noahliechti/web3-interview-preparation)
 [![Fork](https://img.shields.io/github/forks/noahliechti/web3-interview-preparation?style=social)](https://github.com/noahliechti/web3-interview-preparation/fork)
 
-Finding a Web3 job that does not support remote work has become very rare. New challenges arose when companies switched to remote-first. Processes changed and there are new soft skills employers are looking for. This guide will prepare Web2 Devs switching to Web3, (bootcamp) graduates and self toughts for their interviews.
+Finding a Web3 job that does not support remote work has become very rare. New challenges arose when companies switched to remote-first. Processes changed and there are new soft skills employers are looking for. This guide will prepare Web2 Devs switching to Web3, (bootcamp) graduates and self-taughts for their interviews.
 
 > Although I spent a lot of time curating the answers I can not guarantee for their correctness.
-> If you find an error, please propose an improved solution in the discussion section.
+> If you find an error, please propose a solution by using [these](#how-to-contribute) step-by-step instructions
 
-- [Who is this for](#who-is-this-for)
-- [Why should you prepare](#why-should-you-prepare)
-- [The best way to learn](#the-best-way-to-learn)
-  - [Add custom answers](#add-custom-answers)
-  - [Where to learn (3 variants)](#where-to-learn-3-variants)
+- [Who Is This For](#who-is-this-for)
+- [Why Should You Prepare](#why-should-you-prepare)
+- [The Best Way To Learn](#the-best-way-to-learn)
+  - [Add Custom Answers](#add-custom-answers)
+  - [Where To Learn (3 variants)](#where-to-learn-3-variants)
   - [Process](#process)
-- [How to contribute](#how-to-contribute)
+- [How To Contribute](#how-to-contribute)
 - [Behavioral Interview](#behavioral-interview)
   - [Behavioral Questions](#behavioral-questions)
     - [About You](#about-you)
     - [Previous Experiences](#previous-experiences)
     - [New Job](#new-job)
-    - [Ask the employer](#ask-the-employer)
+    - [Ask The Employer](#ask-the-employer)
 - [Technical Interview](#technical-interview)
   - [Previous Experiences](#previous-experiences-1)
-  - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
   - [Web3 Questions (& Answers)](#web3-questions--answers)
     - [Basics](#basics)
-    - [Blockchain and Blockchain alternatives](#blockchain-and-blockchain-alternatives)
+    - [Blockchain And Blockchain Alternatives](#blockchain-and-blockchain-alternatives)
     - [Cryptography](#cryptography)
     - [Attacks](#attacks)
     - [Ethereum](#ethereum)
       - [Solidity](#solidity)
+  - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
   - [Coding Problems](#coding-problems)
-- [Spread the knowledge](#spread-the-knowledge)
+- [Spread The Knowledge](#spread-the-knowledge)
 
-## Who is this for
+## Who Is This For
 
 - **Job Seeker**: Did you just land a Web3 interview? This repo will help you prepare
 - **Recruiter**: Are you a recruiter? Get inspired by our interview questions
 - **Curious People**: You just want to test your blockchain knowledge? Use this repo as a quiz
 
-## Why should you prepare
+## Why Should You Prepare
 
 Congratulation! The company liked your application and invited you to a job interview. Most of the people put more effort into building a great professional resume and they don't put enough effort to get ready for an interview. Being prepared will increase your chances to land your dream job by 176% (I just made that number up). Here are some benefits of being prepared:
 
 - increased confidence
 - higher response quality
 - avoid confusion, shyness, and panic
-- asking better and relevant questions at the end
+- get a better offer
+- ask better and relevant questions at the end
 
-## The best way to learn
+## The Best Way To Learn
 
-### Add custom answers
+### Add Custom Answers
 
 1. [Fork this repository](https://github.com/noahliechti/web3-interview-preparation/fork)
 2. Clone your fork to your local environment
@@ -68,7 +69,7 @@ Congratulation! The company liked your application and invited you to a job inte
 
 If you want you can also add additional questions and answers for the other sections. If you think others could profit from your answers consider opening a pull request to the [main repo](https://github.com/noahliechti/web3-interview-preparation).
 
-### Where to learn (3 variants)
+### Where To Learn (3 variants)
 
 - Open your GitHub fork in the browser
 - In your editor (maybe you need a markdown preview plugin)
@@ -82,7 +83,7 @@ If you want you can also add additional questions and answers for the other sect
 3. Reveal answer and check it
 4. Rate how good your answer was (optional -> only applicable with flashcards)
 
-## How to contribute
+## How To Contribute
 
 - Is there a question you would like to add because other people could benefit from it? We would love to see it
 - Do you think a question is unnecessary? Remove it and add a justification
@@ -553,7 +554,7 @@ If you would like to contribute please make an issue first. Other members will b
     </ul> -->
 </details>
 
-#### Ask the employer
+#### Ask The Employer
 
 <details>
   <summary>What questions do you have for me?</summary>
@@ -625,10 +626,6 @@ Employers like to ask questions related to your application. So go over your res
       </li>
     </ul> -->
 </details>
-
-### Full Stack Questions (& Answers)
-
-> 🏗 Under construction!
 
 ### Web3 Questions (& Answers)
 
@@ -786,7 +783,7 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 
-#### Blockchain and Blockchain alternatives
+#### Blockchain And Blockchain Alternatives
 
 <details>
   <summary>What is a blockchain?</summary>
@@ -916,6 +913,71 @@ Employers like to ask questions related to your application. So go over your res
       <li>
         Ether is Ethereum’s native cryptocurrency
       </li>
+      <li>
+        It provides the nodes an incentive to validate the Ethereum blockchain blocks
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>List some Ethereum development and testing environments</summary>
+    <ul>
+      <li>
+        Truffle
+      </li>
+      <li>
+        Hardhat
+      </li>
+      <li>
+        Brownie
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>How large is the block size of Ethereum?</summary>
+    <ul>
+      <li>
+        2KB
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>How big is the block reward of Ethereum?</summary>
+    <ul>
+      <li>
+        Currently it is 2 ETH. But this number could change in the future
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is the block time of Ethereum?</summary>
+    <ul>
+      <li>
+        The average block time is around 13.2 seconds. But this value can fluctuate. Get the current value from <a href="https://etherscan.io/chart/blocktime">here</a>
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is the smallest unit of Ether?</summary>
+    <ul>
+      <li>
+        1 Wei (10 ** 18 Wei = 1 Ether)
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>Who founded Ethereum?</summary>
+    <ul>
+      <li>
+        Ethereum was founded by Vitalik Buterin, along with seven other co-founders. One of them is Gavin Wood
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>When did Ethereum launch?</summary>
+    <ul>
+      <li>
+        2015
+      </li>
     </ul>
 </details>
 <details>
@@ -949,10 +1011,18 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 <details>
+  <summary>What is Enterprise Ethereum?</summary>
+    <ul>
+      <li>
+        Enterprise Ethereum is a permissioned version of Ethereum. Permissioned means, that  only authorized nodes can join. The Ethereum Mainnet is not permissioned, because anybody can set up a node. In addition these private chains can be setup, that the access to its data is restricted
+      </li>
+    </ul>
+</details>
+<details>
   <summary>What is a node in Ethereum?</summary>
     <ul>
       <li>
-        A node is a computer connected to the network, which is responsible for processing transactions
+        A node is a computer connected to the Ethereum network, which is responsible for processing transactions
       </li>
     </ul>
 </details>
@@ -1116,10 +1186,14 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 
+### Full Stack Questions (& Answers)
+
+> 🏗 Under construction!
+
 ### Coding Problems
 
 > 🏗 Under construction!
 
-## Spread the knowledge
+## Spread The Knowledge
 
-If you found this resource helpful, give it a ⭐️ and share it with you job-seeking frens or your twitter community.
+If you found this resource helpful, give it a ⭐️ and share it with your job-seeking frens or your twitter community.
