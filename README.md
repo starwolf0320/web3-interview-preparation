@@ -10,6 +10,7 @@
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](http://twitter.com/intent/tweet?text=Check%20out%20the%20complete%20Web3%20Interview%20Preparation%20Guide%20made%20by%20%40noahliechti&url=https://github.com/noahliechti/web3-interview-preparation)
 [![Fork](https://img.shields.io/github/forks/noahliechti/web3-interview-preparation?style=social)](https://github.com/noahliechti/web3-interview-preparation/fork)
 
+- [Who is this for](#who-is-this-for)
 - [Why should you prepare](#why-should-you-prepare)
 - [The best way to learn](#the-best-way-to-learn)
   - [Add custom answers](#add-custom-answers)
@@ -37,6 +38,12 @@
 
 > Although I spent a lot of time curating the answers I can not guarantee for their correctness.
 > If you find an error, please propose an improved solution in the discussion section.
+
+## Who is this for
+
+- **Job Seeker**: Did you just land a Web3 interview? This repo will help you prepare
+- **Recruiter**: Are you a recruiter? Get inspired by our interview questions
+- **Life long learner**: You just want to test your blockchain knowledge? Use this repo as a quiz
 
 ## Why should you prepare
 
@@ -80,7 +87,7 @@ If you want you can also add additional questions and answers for the other sect
 - There is a typo or an incorrect answer? Your correction is welcome
 - There is a question you would like to highlight, because it seems to pop up on many interviews?
 
-If you would like to contribute please make an issue first. Other members will be able to vote on your proposal for one week. The number of upvotes have to be at minimum 4x the number of downvotes. If your improvement gets accepted you can no make a pull request.
+If you would like to contribute please make an issue first. Other members will be able to vote on your proposal for one week. The number of upvotes have to be at minimum 4x the number of downvotes. If your improvement gets accepted you can now make a pull request.
 
 1. [Fork this repository](https://github.com/noahliechti/web3-interview-preparation/fork)
 2. Clone your fork to your local environment with `git clone https://github.com/YOUR_USER_NAME/web3-interview-preparation`
