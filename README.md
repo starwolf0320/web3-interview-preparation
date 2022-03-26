@@ -10,6 +10,11 @@
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](http://twitter.com/intent/tweet?text=Check%20out%20the%20complete%20Web3%20Interview%20Preparation%20Guide%20made%20by%20%40noahliechti&url=https://github.com/noahliechti/web3-interview-preparation)
 [![Fork](https://img.shields.io/github/forks/noahliechti/web3-interview-preparation?style=social)](https://github.com/noahliechti/web3-interview-preparation/fork)
 
+Finding a Web3 job that does not support remote work has become very rare. New challenges arose when companies switched to remote-first. Processes changed and there are new soft skills employers are looking for. This guide will prepare Web2 Devs switching to Web3, (bootcamp) graduates and self toughts for their interviews.
+
+> Although I spent a lot of time curating the answers I can not guarantee for their correctness.
+> If you find an error, please propose an improved solution in the discussion section.
+
 - [Who is this for](#who-is-this-for)
 - [Why should you prepare](#why-should-you-prepare)
 - [The best way to learn](#the-best-way-to-learn)
@@ -36,14 +41,11 @@
   - [Coding Problems](#coding-problems)
 - [Spread the knowledge](#spread-the-knowledge)
 
-> Although I spent a lot of time curating the answers I can not guarantee for their correctness.
-> If you find an error, please propose an improved solution in the discussion section.
-
 ## Who is this for
 
 - **Job Seeker**: Did you just land a Web3 interview? This repo will help you prepare
 - **Recruiter**: Are you a recruiter? Get inspired by our interview questions
-- **Life long learner**: You just want to test your blockchain knowledge? Use this repo as a quiz
+- **Curious People**: You just want to test your blockchain knowledge? Use this repo as a quiz
 
 ## Why should you prepare
 
