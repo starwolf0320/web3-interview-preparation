@@ -6,34 +6,47 @@
 
 # Complete Web3 Interview Preparation Guide
 
-- [Why should you prepare](#why-should-you-prepare)
-- [The best way to learn](#the-best-way-to-learn)
-  - [Add custom answers](#add-custom-answers)
-  - [Where to learn (3 variants)](#where-to-learn-3-variants)
-  - [Process](#process)
-- [How to contribute](#how-to-contribute)
-- [Behavioral Interview](#behavioral-interview)
-  - [Behavioral Questions](#behavioral-questions)
-    - [About You](#about-you)
-    - [Previous Experiences](#previous-experiences)
-    - [New Job](#new-job)
-    - [Ask the employer](#ask-the-employer)
-- [Technical Interview](#technical-interview)
-  - [Previous Experiences](#previous-experiences-1)
-  - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
-  - [Web3 Questions (& Answers)](#web3-questions--answers)
-    - [Basics](#basics)
-    - [Blockchain and Blockchain alternatives](#blockchain-and-blockchain-alternatives)
-    - [Cryptography](#cryptography)
-    - [Attacks](#attacks)
-    - [Ethereum](#ethereum)
-      - [Solidity](#solidity)
-  - [Coding Problems](#coding-problems)
+[![Licence](https://img.shields.io/github/license/NoahLiechti/my-projec?style=social)](https://github.com/noahliechti/web3-interview-preparation/blob/main/LICENSE)
+[![Tweet](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](http://twitter.com/intent/tweet?text=Check%20out%20the%20complete%20Web3%20Interview%20Preparation%20Guide%20made%20by%20%40noahliechti&url=https://github.com/noahliechti/web3-interview-preparation)
+[![Fork](https://img.shields.io/github/forks/noahliechti/web3-interview-preparation?style=social)](https://github.com/noahliechti/web3-interview-preparation/fork)
+
+- [Complete Web3 Interview Preparation Guide](#complete-web3-interview-preparation-guide)
+  - [Why should you prepare](#why-should-you-prepare)
+  - [The best way to learn](#the-best-way-to-learn)
+    - [Add custom answers](#add-custom-answers)
+    - [Where to learn (3 variants)](#where-to-learn-3-variants)
+    - [Process](#process)
+  - [How to contribute](#how-to-contribute)
+  - [Behavioral Interview](#behavioral-interview)
+    - [Behavioral Questions](#behavioral-questions)
+      - [About You](#about-you)
+      - [Previous Experiences](#previous-experiences)
+      - [New Job](#new-job)
+      - [Ask the employer](#ask-the-employer)
+  - [Technical Interview](#technical-interview)
+    - [Previous Experiences](#previous-experiences-1)
+    - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
+    - [Web3 Questions (& Answers)](#web3-questions--answers)
+      - [Basics](#basics)
+      - [Blockchain and Blockchain alternatives](#blockchain-and-blockchain-alternatives)
+      - [Cryptography](#cryptography)
+      - [Attacks](#attacks)
+      - [Ethereum](#ethereum)
+        - [Solidity](#solidity)
+    - [Coding Problems](#coding-problems)
+  - [Spread the knowledge](#spread-the-knowledge)
 
 > Although I spent a lot of time curating the answers I can not guarantee for their correctness.
 > If you find an error, please propose an improved solution in the discussion section.
 
 ## Why should you prepare
+
+Congratulation! The company liked your application and invited you to a job interview. Most of the people put more effort into building a great professional resume and they don't put enough effort to get ready for an interview. Being prepared will increase your chances to land your dream job by 176% (I just made that number up). Here are some benefits of being prepared:
+
+- increased confidence
+- higher response quality
+- avoid confusion, shyness, and panic
+- asking better and relevant questions at the end
 
 ## The best way to learn
 
@@ -41,7 +54,11 @@
 
 1. [Fork this repository](https://github.com/noahliechti/web3-interview-preparation/fork)
 2. Clone your fork to your local environment
-3. You can now add custom answers for the behavioral interview and push your changes to your own repo. If you want you can also add additional questions and answers for the other sections
+3. Create a feature branch `git checkout -b custom-answers`
+4. Add custom answers for the behavioral interview and commit your changes `git commit -m 'add description here'`
+5. Push your changes to your own repo with `git push -u origin custom-answers`.
+
+If you want you can also add additional questions and answers for the other sections. If you think others could profit from your answers consider opening a pull request to the [main repo](https://github.com/noahliechti/web3-interview-preparation).
 
 ### Where to learn (3 variants)
 
@@ -59,7 +76,19 @@
 
 ## How to contribute
 
-> 🏗 Under construction!
+- Is there a question you would like to add because other people could benefit from it? We would love to see it
+- Do you think a question is unnecessary? Remove it and add a justification
+- There is a typo or an incorrect answer? Your correction is welcome
+- There is a question you would like to highlight, because it seems to pop up on many interviews?
+
+If you would like to contribute please make an issue first. Other members will be able to vote on your proposal for one week. The number of upvotes have to be at minimum 4x the number of downvotes. If your improvement gets accepted you can no make a pull request.
+
+1. [Fork this repository](https://github.com/noahliechti/web3-interview-preparation/fork)
+2. Clone your fork to your local environment with `git clone https://github.com/YOUR_USER_NAME/web3-interview-preparation`
+3. Create a feature branch `git checkout -b your-branch-name`
+4. Commit your changes `git commit -m 'add description here'`
+5. Add your improvements and push them to your remote branch `git push -u origin your-branch-name`.
+6. Create a new pull request on the [main repo](https://github.com/noahliechti/web3-interview-preparation)
 
 ## Behavioral Interview
 
@@ -1082,3 +1111,7 @@ Employers like to ask questions related to your application. So go over your res
 ### Coding Problems
 
 > 🏗 Under construction!
+
+## Spread the knowledge
+
+If you found this resource helpful, give it a ⭐️ and share it with you job-seeking frens or your twitter community.
