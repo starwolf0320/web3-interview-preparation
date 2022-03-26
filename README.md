@@ -4,7 +4,7 @@
   Author: @noahliechti
   -->
 
-# Complete Web3 Interview Preparation Guide (with Answers)
+# Web3 Interview Preparation Guide (with Answers)
 
 [![Licence](https://img.shields.io/github/license/noahliechti/web3-interview-preparation?style=social)](https://github.com/noahliechti/web3-interview-preparation/blob/main/LICENSE)
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](http://twitter.com/intent/tweet?text=Check%20out%20the%20complete%20Web3%20Interview%20Preparation%20Guide%20made%20by%20%40noahliechti&url=https://github.com/noahliechti/web3-interview-preparation)
