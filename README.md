@@ -1,6 +1,7 @@
 <!--
-  Title: Complete Web3 Interview Preparation Guide (with Answers)
-  Description: A complete web3 guide that prepares you for interviews and will help you land your dream job.
+  Title: Web3 Interview Preparation Guide (Interview Questions and Answers)
+  Description: A complete guide to prepare you for Web3 interviews. Including blockchain, ethereum, fullstack and behavioral interview questions.
+  Full Stack Software Engineer
   Author: @noahliechti
   -->
 
@@ -38,7 +39,7 @@ Finding a Web3 job that does not support remote work has become very rare. New c
     - [Ethereum](#ethereum)
       - [Solidity](#solidity)
   - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
-  - [Coding Problems](#coding-problems)
+  - [Coding Problems (& Solution)](#coding-problems--solution)
 - [Spread The Knowledge](#spread-the-knowledge)
 
 ## Who Is This For
@@ -885,6 +886,66 @@ Employers like to ask questions related to your application. So go over your res
       </li>
     </ul>
 </details>
+<details>
+  <summary>How does Proof of Work work?</summary>
+    <ul>
+      <li>
+        The central principle behind PoW consensus is to solve a complex mathematical problem. The first miner to find the right solution, advertise it to the whole network, and receive a reward in cryptocurrency provided by the protocol
+      </li>
+      <li>
+        The disadvantage is that it requires a lot of computational power
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>How does Proof of Stake work?</summary>
+    <ul>
+      <li>
+        It is a cryptocurrency consensus mechanism
+      </li>
+      <li>
+        Proof of Stake tries to deal with the main drawback of PoW
+      </li>
+      <li>
+        The central principle behind PoS consensus is that cryptocurrency owners can stake their crypto. From this so called "validators" one then is selected randomly to "mint" a new block. The more coins a person stakes, the higher is the chance to be selected
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is a proof of work nonce?</summary>
+    <ul>
+      <li>
+        A nonce plays a crucial part in the mining process with PoW. The nonce is the missing piece of the puzzle needed to discover the next block
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What does "nonce" mean?</summary>
+    <ul>
+      <li>
+        "nonce" stands for "Number User Only Once"
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is a hard fork?</summary>
+    <ul>
+      <li>
+        Hard forks are protocol changes which aren't compatible with the older version of the cryptocurrency. The chain splits into two and the participants can choose to operate in any version
+      </li>
+      <li>
+        Immediately after a blockchain forks, the two resulting chains share the exact same transaction history
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is a soft fork?</summary>
+    <ul>
+      <li>
+        In contrast to a hard fork, soft forks are backward compatible. They don’t have a significant impact on the change of protocol and participants can operate within the network without upgrading their software
+      </li>
+    </ul>
+</details>
 
 #### Attacks
 
@@ -893,6 +954,28 @@ Employers like to ask questions related to your application. So go over your res
     <ul>
       <li>
         If a hacker is able to control 51% or more of the nodes, he will gain control over the entire network
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is a replay attack?</summary>
+    <ul>
+      <li>
+        A replay attack is taking a transaction on one blockchain, and maliciously or fraudulently repeating it on another blockchain. Two post-fork blockchains are vulnerable for this type of attack
+      </li>
+      <li>
+        For a replay attack to work the two chains need to share a common history
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>How can a blockchain prevent replay attacks?</summary>
+    <ul>
+      <li>
+        To prevent replay attacks, the developers on one of the two post-fork blockchains can make a slight change to transaction rules
+      </li>
+      <li>
+        Ethereum prevents same-chain replay attacks by having a transaction counter in each account. This nonce also prevents double spending
       </li>
     </ul>
 </details>
@@ -961,6 +1044,14 @@ Employers like to ask questions related to your application. So go over your res
     <ul>
       <li>
         1 Wei (10 ** 18 Wei = 1 Ether)
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>Bring the denominations in the right order: Gwei, Mwei, Kwei, Ether, Wei, microether, milliether</summary>
+    <ul>
+      <li>
+        Wei, Kwei, Mwei, Gwei, microether, milliether, Ether
       </li>
     </ul>
 </details>
@@ -1051,31 +1142,6 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 <details>
-  <summary>How does Proof of Work work?</summary>
-    <ul>
-      <li>
-        The central principle behind PoW consensus is to solve a complex mathematical problem. The first miner to find the right solution, advertise it to the whole network, and receive a reward in cryptocurrency provided by the protocol
-      </li>
-      <li>
-        The disadvantage is that it requires a lot of computational power
-      </li>
-    </ul>
-</details>
-<details>
-  <summary>How does Proof of Stake work?</summary>
-    <ul>
-      <li>
-        It is a cryptocurrency consensus mechanism
-      </li>
-      <li>
-        Proof of Stake tries to deal with the main drawback of PoW
-      </li>
-      <li>
-        The central principle behind PoS consensus is that cryptocurrency owners can stake their crypto. From this so called "validators" one then is selected randomly to "mint" a new block. The more coins a person stakes, the higher is the chance to be selected
-      </li>
-    </ul>
-</details>
-<details>
   <summary>List common smart contract standards</summary>
     <ul>
       <li>
@@ -1089,6 +1155,17 @@ Employers like to ask questions related to your application. So go over your res
       </li>
       <li>
         ERC-1155: Multi-token standard
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is the account nonce in Ethereum?</summary>
+    <ul>
+      <li>
+        It's the transaction count of an account
+      </li>
+      <li>
+        It prevents replay attacks
       </li>
     </ul>
 </details>
@@ -1190,7 +1267,7 @@ Employers like to ask questions related to your application. So go over your res
 
 > 🏗 Under construction!
 
-### Coding Problems
+### Coding Problems (& Solutions)
 
 > 🏗 Under construction!
 
