@@ -23,23 +23,22 @@ Finding a Web3 job that does not support remote work has become very rare. New c
   - [Where To Learn (3 variants)](#where-to-learn-3-variants)
   - [Process](#process)
 - [How To Contribute](#how-to-contribute)
-- [Behavioral Interview](#behavioral-interview)
-  - [Behavioral Questions](#behavioral-questions)
-    - [About You](#about-you)
-    - [Previous Experiences](#previous-experiences)
-    - [New Job](#new-job)
-    - [Ask The Employer](#ask-the-employer)
-- [Technical Interview](#technical-interview)
-  - [Previous Experiences](#previous-experiences-1)
-  - [Web3 Questions (& Answers)](#web3-questions--answers)
+- [Behavioral Interview Questions](#behavioral-interview-questions)
+  - [Interview Questions About You](#interview-questions-about-you)
+  - [Previous Experience Interview Questions](#previous-experience-interview-questions)
+  - [Interview Questions About The New Role](#interview-questions-about-the-new-role)
+  - [Interview Questions To Ask The Employer](#interview-questions-to-ask-the-employer)
+- [Technical Interview Questions](#technical-interview-questions)
+  - [Previous Experience Interview Questions](#previous-experience-interview-questions-1)
+  - [Web3 Interview Questions (& Answers)](#web3-interview-questions--answers)
     - [Basics](#basics)
     - [Blockchain And Blockchain Alternatives](#blockchain-and-blockchain-alternatives)
     - [Cryptography](#cryptography)
     - [Attacks](#attacks)
     - [Ethereum](#ethereum)
       - [Solidity](#solidity)
-  - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
-  - [Coding Problems (& Solutions)](#coding-problems--solutions)
+  - [Full Stack Interview Questions (& Answers)](#full-stack-interview-questions--answers)
+  - [Interview Coding Problems (& Solutions)](#interview-coding-problems--solutions)
 - [Spread The Knowledge](#spread-the-knowledge)
 
 ## Who Is This For
@@ -66,7 +65,7 @@ Congratulation! The company liked your application and invited you to a job inte
 2. Clone your fork to your local environment
 3. Create a feature branch `git checkout -b custom-answers`
 4. Add custom answers for the behavioral interview and commit your changes `git commit -m 'add description here'`
-5. Push your changes to your own repo with `git push -u origin custom-answers`.
+5. Push your changes to your own repo with `git push -u origin custom-answers`
 
 If you want you can also add additional questions and answers for the other sections. If you think others could profit from your answers consider opening a pull request to the [main repo](https://github.com/noahliechti/web3-interview-preparation).
 
@@ -97,16 +96,14 @@ If you would like to contribute please make an issue first. Other members will b
 2. Clone your fork to your local environment with `git clone https://github.com/YOUR_USER_NAME/web3-interview-preparation`
 3. Create a feature branch `git checkout -b your-branch-name`
 4. Commit your changes `git commit -m 'add description here'`
-5. Add your improvements and push them to your remote branch `git push -u origin your-branch-name`.
+5. Add your improvements and push them to your remote branch `git push -u origin your-branch-name`
 6. Create a new pull request on the [main repo](https://github.com/noahliechti/web3-interview-preparation)
 
-## Behavioral Interview
-
-### Behavioral Questions
+## Behavioral Interview Questions
 
 > [Fork this repository](https://github.com/noahliechti/web3-interview-preparation/fork) and add your own answers. This makes practising easier!
 
-#### About You
+### Interview Questions About You
 
 <details>
   <summary>Tell me about yourself</summary>
@@ -314,7 +311,7 @@ If you would like to contribute please make an issue first. Other members will b
     </ul> -->
 </details>
 
-#### Previous Experiences
+### Previous Experience Interview Questions
 
 <details>
   <summary>Discuss your educational background</summary>
@@ -439,7 +436,7 @@ If you would like to contribute please make an issue first. Other members will b
     </ul> -->
 </details>
 
-#### New Job
+### Interview Questions About The New Role
 
 <details>
   <summary>Why this company?</summary>
@@ -555,7 +552,7 @@ If you would like to contribute please make an issue first. Other members will b
     </ul> -->
 </details>
 
-#### Ask The Employer
+### Interview Questions To Ask The Employer
 
 <details>
   <summary>What questions do you have for me?</summary>
@@ -587,9 +584,9 @@ If you would like to contribute please make an issue first. Other members will b
     </ul>
 </details>
 
-## Technical Interview
+## Technical Interview Questions
 
-### Previous Experiences
+### Previous Experience Interview Questions
 
 Employers like to ask questions related to your application. So go over your resume and and think about 5 to 10 followup questions a potential employer could ask. Being prepared for such question shows that you know what you were doing. Be ready to answer a bit more technical questions related to your recent experiences. Some examples:
 
@@ -628,7 +625,7 @@ Employers like to ask questions related to your application. So go over your res
     </ul> -->
 </details>
 
-### Web3 Questions (& Answers)
+### Web3 Interview Questions (& Answers)
 
 #### Basics
 
@@ -696,7 +693,7 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 <details>
-  <summary>What is the difference between an NFT and a fungible token?</summary>
+  <summary>What is the difference between a NFT and a fungible token?</summary>
     <ul>
       <li>
         NFTs are unique digital asset like artworks and collectibles. Non fungible tokens are not interchangeable
@@ -950,19 +947,14 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 <details>
-  <summary>What is a merkle root?</summary>
+  <summary>What is a merkle tree?</summary>
     <ul>
       <li>
-       The merkle root is the root hash of a merkle tree
+       A merkle tree is a data structure used to efficiently summarize and validate large data sets
       </li>
       <li>
-       The merkle root is put into the block header of a block
+       A merkle tree consists of the merkle root, which is the root hash. The merkle root is then put into the block header of a block
       </li>
-    </ul>
-</details>
-<details>
-  <summary>What role do transactions hashes play in a merkle tree?</summary>
-    <ul>
       <li>
         In a merkle tree, the the transaction hashes are considered the leaves. Each non-leaf node (branch) is a hash of its child hashes
       </li>
@@ -1167,7 +1159,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>Which programming language is used to write smart contracts?</summary>
     <ul>
       <li>
-        Solidity is the primary programming language used for writing smart contracts and dApps
+        Solidity is the primary programming language used for writing smart contracts and dApps. Vyper is also used
       </li>
     </ul>
 </details>
@@ -1200,10 +1192,10 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 <details>
-  <summary>How can you obtain Ether?</summary>
+  <summary>How can you obtain ether?</summary>
     <ul>
       <li>
-        Ethers can be obtained by mining or by trading Ethers with other cryptocurrencies
+        Ether can be obtained by mining or by trading Ether with other cryptocurrencies
       </li>
     </ul>
 </details>
@@ -1230,10 +1222,32 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 <details>
-  <summary>How can the transaction fees be calculated?</summary>
+  <summary>How much gas does a simple Ethereum transaction cost?</summary>
     <ul>
       <li>
-        Gas Limit * Gas Price (Wei)
+        A simple transfer of value requires 21'000 gas
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>How many transactions fit into an Ethereum block?</summary>
+    <ul>
+      <li>
+        There is no general answer for this, because transactions utilize different amounts of gas and a block has a variable size (depending on network demand)
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>How are the transaction fees calculated in Ethereum after the London upgrade?</summary>
+    <ul>
+      <li>
+        Gas units (limit) * (base fee (in Gwei) + priority fee (tip))
+      </li>
+      <li>
+        Info: Miners receive the tip and the base fee is burned
+      </li>
+      <li>
+        Read the <a href="https://ethereum.org/en/developers/docs/gas/#post-london">docs</a> to find out more about gas
       </li>
     </ul>
 </details>
@@ -1285,6 +1299,22 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 <details>
+  <summary>Why is is hard to generate random numbers in a smart contract?</summary>
+    <ul>
+      <li>
+        Solidity contracts are deterministic. Anyone who figures out how your contract produces randomness can anticipate its results and use this information to exploit your application
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>How can random numbers be generated in a smart contract?</summary>
+    <ul>
+      <li>
+        To make random numbers unpredictable you must use an oracle to produce randomness off-chain. A popular way is to use ChainLink VRF
+      </li>
+    </ul>
+</details>
+<details>
   <summary>Why do smart contracts written in Solidity or Viper need to be compiled?</summary>
     <ul>
       <li>
@@ -1293,7 +1323,7 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 <details>
-  <summary>Explain the naming conventions for contracts and functions</summary>
+  <summary>Explain the naming conventions for contracts and functions in Solidity</summary>
     <ul>
       <li>
         Contract names should be capitalised (e.g TestContract)
@@ -1310,7 +1340,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>Do all functions in a smart contract costs gas?</summary>
     <ul>
       <li>
-        Functions that modify the state of EVM costs gas, whereas functions that only read the state of are free
+        Functions that modify the state of EVM costs gas, whereas functions that only read the state are free
       </li>
     </ul>
 </details>
@@ -1350,7 +1380,7 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 <details>
-  <summary>In which two scenarios a fallback function defined as payable get called in Solidity?</summary>
+  <summary>In which two scenarios a fallback function (defined as payable) gets called in Solidity?</summary>
     <ul>
       <li>
         A contract receives only ether and no data (msg.data)
@@ -1380,12 +1410,23 @@ Employers like to ask questions related to your application. So go over your res
       </li>
     </ul>
 </details>
+<details>
+  <summary>What is the difference between ERC & EIP?</summary>
+    <ul>
+      <li>
+        Ethereum Request for comments (ERC) define standards for the usage of Ethereum
+      </li>
+      <li>
+        Ethereum Improvement Proposals (EIP) improve the Ethereum protocol itself
+      </li>
+    </ul>
+</details>
 
-### Full Stack Questions (& Answers)
+### Full Stack Interview Questions (& Answers)
 
 > 🏗 Under construction!
 
-### Coding Problems (& Solutions)
+### Interview Coding Problems (& Solutions)
 
 > 🏗 Under construction!
 
@@ -1395,7 +1436,8 @@ Employers like to ask questions related to your application. So go over your res
   - https://ethereum.stackexchange.com/questions/12145/how-to-loop-through-mapping-in-solidity
 - You Interact With A Smart Contract & See A Gas Usage Of 50,000 With A Cost of 15Gwei. How Much ether Would You Have To Pay To The Miner?
   - 750,000,000,000,000 Wei.
-- calculate 3500 finny to ether -->
+- calculate 3500 finny to ether
+- calculate transaction fee -->
 
 ## Spread The Knowledge
 
