@@ -1389,13 +1389,13 @@ Employers like to ask questions related to your application. So go over your res
 
 > 🏗 Under construction!
 
-- compare two strings in Solidity
+<!-- - compare two strings in Solidity
   - You Can’t Directly Compare Two Strings, But One Method Would Be To Hash Both Strings & Compare The Hashes.
 - loop through mapping
   - https://ethereum.stackexchange.com/questions/12145/how-to-loop-through-mapping-in-solidity
 - You Interact With A Smart Contract & See A Gas Usage Of 50,000 With A Cost of 15Gwei. How Much ether Would You Have To Pay To The Miner?
   - 750,000,000,000,000 Wei.
-- calculate 3500 finny to ether
+- calculate 3500 finny to ether -->
 
 ## Spread The Knowledge
 
