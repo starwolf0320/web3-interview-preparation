@@ -39,7 +39,7 @@ Finding a Web3 job that does not support remote work has become very rare. New c
     - [Ethereum](#ethereum)
       - [Solidity](#solidity)
   - [Full Stack Questions (& Answers)](#full-stack-questions--answers)
-  - [Coding Problems (& Solution)](#coding-problems--solution)
+  - [Coding Problems (& Solutions)](#coding-problems--solutions)
 - [Spread The Knowledge](#spread-the-knowledge)
 
 ## Who Is This For
@@ -637,7 +637,7 @@ Employers like to ask questions related to your application. So go over your res
     <ul>
       <li>
         Web1 was the first phase of the internet. Most participants were consumers
-        of content. It was all about serving static content instead of dynamic HTML.
+        of content. It was all about serving static content instead of dynamic HTML
       </li>
     </ul>
 </details>
@@ -645,7 +645,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What is Web2?</summary>
     <ul>
       <li>
-        You can think of Web2 as the interactive and social web.
+        Web2 is the interactive and social web
       </li>
     </ul>
 </details>
@@ -653,7 +653,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What is Web3?</summary>
     <ul>
       <li>
-        I'd call it the decentralized internet. It provides native built-in payments while still being self-governing
+        Web3 is the decentralized internet. It provides native built-in payments while still being self-governing
       </li>
     </ul>
 </details>
@@ -677,7 +677,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What is a decentralized ledger?</summary>
     <ul>
       <li>
-        I would describe it as a database that gets saved from a group of people and is updated in regular blocks of time
+        It as a database that gets saved from a group of people and is updated in regular blocks of time
       </li>
     </ul>
 </details>
@@ -702,7 +702,7 @@ Employers like to ask questions related to your application. So go over your res
         NFTs are unique digital asset like artworks and collectibles. Non fungible tokens are not interchangeable
       </li>
       <li>
-        Fungible tokens like Ether or Bitcoin on the other hand are divisible and replaceable
+        Fungible tokens like ether or Bitcoin on the other hand are divisible and replaceable
       </li>
     </ul>
 </details>
@@ -856,33 +856,22 @@ Employers like to ask questions related to your application. So go over your res
       </li>
     </ul>
 </details>
-
-#### Cryptography
-
 <details>
-  <summary>What is a merkle root?</summary>
+  <summary>What is a hard fork?</summary>
     <ul>
       <li>
-       The merkle root is the root hash of a merkle tree
+        Hard forks are protocol changes which aren't compatible with the older version of the cryptocurrency. The chain splits into two and the participants can choose to operate in any version
       </li>
       <li>
-       The merkle root is put into the block header of a block
+        Immediately after a blockchain forks, the two resulting chains share the exact same transaction history
       </li>
     </ul>
 </details>
 <details>
-  <summary>What role do transactions hashes play in a merkle tree?</summary>
+  <summary>What is a soft fork?</summary>
     <ul>
       <li>
-        In a merkle tree, the the transaction hashes are considered the leaves. Each non-leaf node (branch) is a hash of its child hashes
-      </li>
-    </ul>
-</details>
-<details>
-  <summary>Why are merkle trees so important in BTC?</summary>
-    <ul>
-      <li>
-        If Bitcoin didn’t have merkle trees, every node on the network would need to maintain a full copy of every transaction that has ever happened in Bitcoin
+        In contrast to a hard fork, soft forks are backward compatible. They don’t have a significant impact on the change of protocol and participants can operate within the network without upgrading their software
       </li>
     </ul>
 </details>
@@ -927,22 +916,63 @@ Employers like to ask questions related to your application. So go over your res
       </li>
     </ul>
 </details>
+
+#### Cryptography
+
 <details>
-  <summary>What is a hard fork?</summary>
+  <summary>What is a hash collision?</summary>
     <ul>
       <li>
-        Hard forks are protocol changes which aren't compatible with the older version of the cryptocurrency. The chain splits into two and the participants can choose to operate in any version
-      </li>
-      <li>
-        Immediately after a blockchain forks, the two resulting chains share the exact same transaction history
+       A hash collision occurs, if two different inputs lead to the same hash
       </li>
     </ul>
 </details>
 <details>
-  <summary>What is a soft fork?</summary>
+  <summary>What is symmetric key encryption?</summary>
     <ul>
       <li>
-        In contrast to a hard fork, soft forks are backward compatible. They don’t have a significant impact on the change of protocol and participants can operate within the network without upgrading their software
+       Symmetric key encryption is also called private key cryptography and uses the same key to encrypt and decrypt messages
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is asymmetric key encryption?</summary>
+    <ul>
+      <li>
+       Symmetric key encryption is also called public key cryptography and uses two separate keys to encrypt and decrypt messages
+      </li>
+      <li>
+       First a private key is randomly generated. With the use of a mathematical formula the public key can be created from the private key. The public key can be shared with everyone, whereas the private key must be kept secret
+      </li>
+      <li>
+        Data is encrypted using any one of the keys and decrypted with the other. Unlike with symmetric encryption only the encrypted data (but not the key itself) has to be transferred, making it more secure against man-in-the-middle attacks
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is a merkle root?</summary>
+    <ul>
+      <li>
+       The merkle root is the root hash of a merkle tree
+      </li>
+      <li>
+       The merkle root is put into the block header of a block
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What role do transactions hashes play in a merkle tree?</summary>
+    <ul>
+      <li>
+        In a merkle tree, the the transaction hashes are considered the leaves. Each non-leaf node (branch) is a hash of its child hashes
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>Why are merkle trees so important in BTC?</summary>
+    <ul>
+      <li>
+        If Bitcoin didn’t have merkle trees, every node on the network would need to maintain a full copy of every transaction that has ever happened in Bitcoin
       </li>
     </ul>
 </details>
@@ -1262,6 +1292,94 @@ Employers like to ask questions related to your application. So go over your res
       </li>
     </ul>
 </details>
+<details>
+  <summary>Explain the naming conventions for contracts and functions</summary>
+    <ul>
+      <li>
+        Contract names should be capitalised (e.g TestContract)
+      </li>
+      <li>
+        Function names should be mixed-case (e.g superDuperFunction)
+      </li>
+      <li>
+        Learn more about the style guide <a href="https://docs.soliditylang.org/en/latest/style-guide.html">here</a>
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>Do all functions in a smart contract costs gas?</summary>
+    <ul>
+      <li>
+        Functions that modify the state of EVM costs gas, whereas functions that only read the state of are free
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>List all valid data types of Solidity</summary>
+    <ul>
+      <li>
+        Boolean, Integer, Address, Byte/String, Enum
+      </li>
+      <li>
+        The data type "Fixed Point Numbers" also exists, but isn't fully supported yet
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is the result of 7/2 in Solidity?</summary>
+    <ul>
+      <li>
+        It is 3 because the decimal gets truncated
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What data types are not valid keys in a mapping?</summary>
+    <ul>
+      <li>
+        The key can be any built-in data type but reference types are not allowed. Not allowed are: Mapping, Struct, Enum or dynamically sized Array.
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is the advantage of a defining a fallback function in Solidity?</summary>
+    <ul>
+      <li>
+        It helps us to protect the function from throwing an error
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>In which two scenarios a fallback function defined as payable get called in Solidity?</summary>
+    <ul>
+      <li>
+        A contract receives only ether and no data (msg.data)
+      </li>
+      <li>
+        No function name matches the called function
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is special about the fallback function in Solidity?</summary>
+    <ul>
+      <li>
+        It has no name, arguments or identifier
+      </li>
+      <li>
+        It can not return anything
+      </li>
+      <li>
+        It can only be defined once per contract
+      </li>
+      <li>
+        It is mandatory to mark it external
+      </li>
+      <li>
+        It is limited to 2300 gas when called by another function
+      </li>
+    </ul>
+</details>
 
 ### Full Stack Questions (& Answers)
 
@@ -1270,6 +1388,14 @@ Employers like to ask questions related to your application. So go over your res
 ### Coding Problems (& Solutions)
 
 > 🏗 Under construction!
+
+- compare two strings in Solidity
+  - You Can’t Directly Compare Two Strings, But One Method Would Be To Hash Both Strings & Compare The Hashes.
+- loop through mapping
+  - https://ethereum.stackexchange.com/questions/12145/how-to-loop-through-mapping-in-solidity
+- You Interact With A Smart Contract & See A Gas Usage Of 50,000 With A Cost of 15Gwei. How Much ether Would You Have To Pay To The Miner?
+  - 750,000,000,000,000 Wei.
+- calculate 3500 finny to ether
 
 ## Spread The Knowledge
 
