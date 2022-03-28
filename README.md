@@ -968,6 +968,14 @@ Employers like to ask questions related to your application. So go over your res
       </li>
     </ul>
 </details>
+<details>
+  <summary>Explain the term "zero knowledge proof"</summary>
+    <ul>
+      <li>
+        It is a cryptographic method that allows one party to prove the knowledge of certain information to the other party without revealing the data in question
+      </li>
+    </ul>
+</details>
 
 #### Attacks
 
@@ -976,6 +984,25 @@ Employers like to ask questions related to your application. So go over your res
     <ul>
       <li>
         If a hacker is able to control 51% or more of the nodes, he will gain control over the entire network
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is a reentrancy attack?</summary>
+    <ul>
+      <li>
+        A reentrancy attack occurs when a function makes an external call to an untrusted contract. The untrusted contract then makes a recursive call back to the original function in an attempt to drain funds
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>Name two ways reentrancy attacks can be prevented</summary>
+    <ul>
+      <li>
+        Implementing the checks-effects-interactions pattern (update the state before making external calls)
+      </li>
+      <li>
+        Using a reentrancy guard (e.g modifier by OpenZeppelin)
       </li>
     </ul>
 </details>
@@ -1177,6 +1204,25 @@ Employers like to ask questions related to your application. So go over your res
       </li>
       <li>
         ERC-1155: Multi-token standard
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is integer underflow/overflow?</summary>
+    <ul>
+      <li>
+        Integer overflows and underflows occur due to the input, whose size does not meet the boundaries of integer variables
+      </li>
+      <li>
+        Hint: To avoid this, simply make sure you’re using a Solidity compiler version > 0.8, which automatically checks for overflows and underflows
+      </li>
+    </ul>
+</details>
+<details>
+  <summary>What is a frontrunning?</summary>
+    <ul>
+      <li>
+        Transactions take some time before they are mined. An attacker can watch the transaction pool and send a transaction, have it included in a block before the original transaction. This mechanism can be abused to re-order transactions to the attacker's advantage
       </li>
     </ul>
 </details>
@@ -1437,7 +1483,9 @@ Employers like to ask questions related to your application. So go over your res
 - You Interact With A Smart Contract & See A Gas Usage Of 50,000 With A Cost of 15Gwei. How Much ether Would You Have To Pay To The Miner?
   - 750,000,000,000,000 Wei.
 - calculate 3500 finny to ether
-- calculate transaction fee -->
+- calculate transaction fee
+- programm a simple reentracy guard
+- -->
 
 ## Spread The Knowledge
 
