@@ -75,6 +75,7 @@ If you want you can also add additional questions and answers for the other sect
 - In your editor (maybe you need a markdown preview plugin)
 - Make flashcards -> recommended!
   - I use Anki, because of its space-repetition feature -> Anki deck coming soon
+  - Checkout my [Anki Card Templates](https://gist.github.com/noahliechti/d05444c0b4a8b0f25c44dd3c05e718d7)
 
 ### Process
 
