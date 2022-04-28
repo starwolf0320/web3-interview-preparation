@@ -16,30 +16,34 @@ Finding a Web3 job that does not support remote work has become very rare. New c
 > Although I spent a lot of time curating the answers I can not guarantee for their correctness.
 > If you find an error, please propose a solution by using [these](#how-to-contribute) step-by-step instructions
 
-- [Who Is This For](#who-is-this-for)
-- [Why Should You Prepare](#why-should-you-prepare)
-- [The Best Way To Learn](#the-best-way-to-learn)
-  - [Add Custom Answers](#add-custom-answers)
-  - [Where To Learn (3 variants)](#where-to-learn-3-variants)
-  - [Process](#process)
-- [How To Contribute](#how-to-contribute)
-- [Behavioral Interview Questions](#behavioral-interview-questions)
-  - [Interview Questions About You](#interview-questions-about-you)
-  - [Previous Experience Interview Questions](#previous-experience-interview-questions)
-  - [Interview Questions About The New Role](#interview-questions-about-the-new-role)
-  - [Interview Questions To Ask The Employer](#interview-questions-to-ask-the-employer)
-- [Technical Interview Questions](#technical-interview-questions)
-  - [Previous Experience Interview Questions](#previous-experience-interview-questions-1)
-  - [Web3 Interview Questions (& Answers)](#web3-interview-questions--answers)
-    - [Basics](#basics)
-    - [Blockchain And Blockchain Alternatives](#blockchain-and-blockchain-alternatives)
-    - [Cryptography](#cryptography)
-    - [Attacks](#attacks)
-    - [Ethereum](#ethereum)
-      - [Solidity](#solidity)
-  - [Full Stack Interview Questions (& Answers)](#full-stack-interview-questions--answers)
-  - [Interview Coding Problems (& Solutions)](#interview-coding-problems--solutions)
-- [Spread The Knowledge](#spread-the-knowledge)
+- [Web3 Interview Preparation Guide (with Answers)](#web3-interview-preparation-guide-with-answers)
+  - [Who Is This For](#who-is-this-for)
+  - [Why Should You Prepare](#why-should-you-prepare)
+  - [The Best Way To Learn](#the-best-way-to-learn)
+    - [Add Custom Answers](#add-custom-answers)
+    - [Use The Right Tools (3 variants)](#use-the-right-tools-3-variants)
+    - [Process](#process)
+  - [Get Invited For An Interview](#get-invited-for-an-interview)
+  - [Before The Interview](#before-the-interview)
+  - [At The Interview](#at-the-interview)
+  - [Behavioral Interview Questions](#behavioral-interview-questions)
+    - [Interview Questions About You](#interview-questions-about-you)
+    - [Previous Experience Interview Questions](#previous-experience-interview-questions)
+    - [Interview Questions About The New Role](#interview-questions-about-the-new-role)
+    - [Interview Questions To Ask The Employer](#interview-questions-to-ask-the-employer)
+  - [Technical Interview Questions](#technical-interview-questions)
+    - [Previous Experience Interview Questions](#previous-experience-interview-questions-1)
+    - [Web3 Interview Questions (& Answers)](#web3-interview-questions--answers)
+      - [Basics](#basics)
+      - [Blockchain And Blockchain Alternatives](#blockchain-and-blockchain-alternatives)
+      - [Cryptography](#cryptography)
+      - [Attacks](#attacks)
+      - [Ethereum](#ethereum)
+        - [Solidity](#solidity)
+    - [Full Stack Interview Questions (& Answers)](#full-stack-interview-questions--answers)
+    - [Interview Coding Problems (& Solutions)](#interview-coding-problems--solutions)
+  - [How To Contribute](#how-to-contribute)
+  - [Spread The Knowledge](#spread-the-knowledge)
 
 ## Who Is This For
 
@@ -49,7 +53,7 @@ Finding a Web3 job that does not support remote work has become very rare. New c
 
 ## Why Should You Prepare
 
-Congratulation! The company liked your application and invited you to a job interview. Most of the people put more effort into building a great professional resume and they don't put enough effort to get ready for an interview. Being prepared will increase your chances to land your dream job by 176% (I just made that number up). Here are some benefits of being prepared:
+Most of the people put more effort into building a great professional resume and they don't put enough effort to get ready for an interview. Being prepared will increase your chances to land your dream job by 176% (I just made that number up). Here are some benefits of being prepared:
 
 - increased confidence
 - higher response quality
@@ -69,12 +73,12 @@ Congratulation! The company liked your application and invited you to a job inte
 
 If you want you can also add additional questions and answers for the other sections. If you think others could profit from your answers consider opening a pull request to the [main repo](https://github.com/noahliechti/web3-interview-preparation).
 
-### Where To Learn (3 variants)
+### Use The Right Tools (3 variants)
 
+- **Make flashcards (recommended!)**
+  - I use Anki, because of its space-repetition feature
 - Open your GitHub fork in the browser
 - In your editor (maybe you need a markdown preview plugin)
-- Make flashcards -> recommended!
-  - I use Anki, because of its space-repetition feature -> Anki deck coming soon
 
 ### Process
 
@@ -83,21 +87,29 @@ If you want you can also add additional questions and answers for the other sect
 3. Reveal answer and check it
 4. Rate how good your answer was (optional -> only applicable with flashcards)
 
-## How To Contribute
+## Get Invited For An Interview
 
-- Is there a question you would like to add because other people could benefit from it? We would love to see it
-- Do you think a question is unnecessary? Remove it and add a justification
-- There is a typo or an incorrect answer? Your correction is welcome
-- There is a question you would like to highlight, because it seems to pop up on many interviews?
+There are a lot of great resources on how to get invited for an interview. Here is my Web3 approach (worked every time so far):
 
-If you would like to contribute please make an issue first. Other members will be able to vote on your proposal for one week. The number of upvotes have to be at minimum 4x the number of downvotes. If your improvement gets accepted you can now make a pull request.
+1. Find the GitHub account of the organization your applying for
+2. Submit an issue or pull request that adds value
+3. Get in contact with employees on the company's discord channel
+   1. Ask them about their experience working for the company
+   2. Mention you contribution and interest for the open position XYZ
+   3. Politely ask them to forward your resume to the person in charge
 
-1. [Fork this repository](https://github.com/noahliechti/web3-interview-preparation/fork)
-2. Clone your fork to your local environment with `git clone https://github.com/YOUR_USER_NAME/web3-interview-preparation`
-3. Create a feature branch `git checkout -b your-branch-name`
-4. Commit your changes `git commit -m 'add description here'`
-5. Add your improvements and push them to your remote branch `git push -u origin your-branch-name`
-6. Create a new pull request on the [main repo](https://github.com/noahliechti/web3-interview-preparation)
+## Before The Interview
+
+- Do several mock interviews with a friend (remote)
+- Clean up the projects you mentioned in your resume (employers will probably look at it, so add comments and a readme)
+- Join a DAO (shows that you are sociable person and interested in the space)
+
+## At The Interview
+
+- Use a quiet space that has a clean background and a good internet connection
+- Make sure your webcam is on you eye level (place the laptop on a stack of books)
+- Use a headset
+- Be on time
 
 ## Behavioral Interview Questions
 
@@ -255,14 +267,6 @@ If you would like to contribute please make an issue first. Other members will b
     </ul> -->
 </details>
 <details>
-  <summary>How would you fire someone?</summary>
-    <!-- <ul>
-      <li>
-        add answer here
-      </li>
-    </ul> -->
-</details>
-<details>
   <summary>What do you like the most and least about working in this industry?</summary>
     <!-- <ul>
       <li>
@@ -272,14 +276,6 @@ If you would like to contribute please make an issue first. Other members will b
 </details>
 <details>
   <summary>Do you prefer to work on your own or as part of a team?</summary>
-    <!-- <ul>
-      <li>
-        add answer here
-      </li>
-    </ul> -->
-</details>
-<details>
-  <summary>How would you deal with an angry or irate customer?</summary>
     <!-- <ul>
       <li>
         add answer here
@@ -1183,7 +1179,7 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 <details>
-  <summary>Which programming language is used to write smart contracts?</summary>
+  <summary>Which programming language is used to write smart contracts in Ethereum?</summary>
     <ul>
       <li>
         Solidity is the primary programming language used for writing smart contracts and dApps. Vyper is also used
@@ -1253,6 +1249,9 @@ Employers like to ask questions related to your application. So go over your res
       </li>
       <li>
         Testnets: Ropsten, Goerli, Kovan, Rinkeby
+      </li>
+      <li>
+        Private networks (Enterprise Ethereum)
       </li>
       <li>
         Local networks
@@ -1477,6 +1476,7 @@ Employers like to ask questions related to your application. So go over your res
 > 🏗 Under construction!
 
 <!-- - compare two strings in Solidity
+ - use code sandbox!
   - You Can’t Directly Compare Two Strings, But One Method Would Be To Hash Both Strings & Compare The Hashes.
 - loop through mapping
   - https://ethereum.stackexchange.com/questions/12145/how-to-loop-through-mapping-in-solidity
@@ -1484,9 +1484,27 @@ Employers like to ask questions related to your application. So go over your res
   - 750,000,000,000,000 Wei.
 - calculate 3500 finny to ether
 - calculate transaction fee
-- programm a simple reentracy guard
+- program a simple reentracy guard
+- add leetcode questions that include cryptography
+- challenges with this and react
 - -->
+
+## How To Contribute
+
+- Is there a question you would like to add because other people could benefit from it? We would love to see it
+- Do you think a question is unnecessary? Remove it and add a justification
+- There is a typo or an incorrect answer? Your correction is welcome
+- There is a question you would like to highlight, because it seems to pop up on many interviews?
+
+If you would like to contribute please make an issue first. Other members will be able to vote on your proposal for one week. The number of upvotes have to be at minimum 4x the number of downvotes. If your improvement gets accepted you can now make a pull request.
+
+1. [Fork this repository](https://github.com/noahliechti/web3-interview-preparation/fork)
+2. Clone your fork to your local environment with `git clone https://github.com/YOUR_USER_NAME/web3-interview-preparation`
+3. Create a feature branch `git checkout -b your-branch-name`
+4. Commit your changes `git commit -m 'add description here'`
+5. Add your improvements and push them to your remote branch `git push -u origin your-branch-name`
+6. Create a new pull request on the [main repo](https://github.com/noahliechti/web3-interview-preparation)
 
 ## Spread The Knowledge
 
-If you found this resource helpful, give it a ⭐️ and share it with your job-seeking frens or your twitter community.
+If you found this resource helpful, give it a ⭐️ and [share](http://twitter.com/intent/tweet?text=Check%20out%20the%20complete%20Web3%20Interview%20Preparation%20Guide%20made%20by%20%40noahliechti&url=https://github.com/noahliechti/web3-interview-preparation) it with your job-seeking frens or your twitter community.
