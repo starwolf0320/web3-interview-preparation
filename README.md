@@ -39,7 +39,6 @@ Finding a Web3 job that does not support remote work has become very rare. New c
     - [Attacks](#attacks)
     - [Ethereum](#ethereum)
       - [Solidity](#solidity)
-  - [Full Stack Interview Questions (& Answers)](#full-stack-interview-questions--answers)
   - [Interview Coding Problems (& Solutions)](#interview-coding-problems--solutions)
 - [How To Contribute](#how-to-contribute)
 - [Spread The Knowledge](#spread-the-knowledge)
@@ -1466,10 +1465,6 @@ Employers like to ask questions related to your application. So go over your res
       </li>
     </ul>
 </details>
-
-### Full Stack Interview Questions (& Answers)
-
-> 🏗 Under construction!
 
 ### Interview Coding Problems (& Solutions)
 
