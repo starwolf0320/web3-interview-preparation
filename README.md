@@ -1473,11 +1473,21 @@ Employers like to ask questions related to your application. So go over your res
 
 ### Interview Coding Problems (& Solutions)
 
-> 🏗 Under construction!
+<details>
+  <summary>Compare two strings in Solidity</summary>
+    <ul>
+      <li>
+        Hint: You can’t directly compare two strings, but one method would be to hash both strings & compare the hashes.
+      </li>
+      <li>
+        <p>Directly try out the solution in Remix <a href="https://remix.ethereum.org/?#code=Ly8gU1BEWC1MaWNlbnNlLUlkZW50aWZpZXI6IE1JVAoKcHJhZ21hIHNvbGlkaXR5IF4wLjguMDsKCmNvbnRyYWN0IFN0cmluZ0NvbXBhcmlzb24gewogICAgZnVuY3Rpb24gY29tcGFyZVN0cmluZ3Moc3RyaW5nIG1lbW9yeSBhLCBzdHJpbmcgbWVtb3J5IGIpIHB1YmxpYyBwdXJlIHJldHVybnMgKGJvb2wpIHsKICAgICAgICByZXR1cm4ga2VjY2FrMjU2KGFiaS5lbmNvZGVQYWNrZWQoYSkpID09IGtlY2NhazI1NihhYmkuZW5jb2RlUGFja2VkKGIpKTsKICAgIH0KfQ==">here</a></p>
+      </li>
+    </ul>
+
+</details>
 
 <!-- - compare two strings in Solidity
  - use code sandbox!
-  - You Can’t Directly Compare Two Strings, But One Method Would Be To Hash Both Strings & Compare The Hashes.
 - loop through mapping
   - https://ethereum.stackexchange.com/questions/12145/how-to-loop-through-mapping-in-solidity
 - You Interact With A Smart Contract & See A Gas Usage Of 50,000 With A Cost of 15Gwei. How Much ether Would You Have To Pay To The Miner?
@@ -1488,6 +1498,8 @@ Employers like to ask questions related to your application. So go over your res
 - add leetcode questions that include cryptography
 - challenges with this and react
 - -->
+
+> 🏗 More coming soon!
 
 ## How To Contribute
 
