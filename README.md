@@ -1503,7 +1503,8 @@ Employers like to ask questions related to your application. So go over your res
 - There is a typo or an incorrect answer? Your correction is welcome
 - There is a question you would like to highlight, because it seems to pop up on many interviews?
 
-If you would like to contribute please make an issue first. Other members will be able to vote on your proposal for one week. The number of upvotes have to be at minimum 4x the number of downvotes. If your improvement gets accepted you can now make a pull request.
+For small updates directly make a pull request, for bigger ones consider opening an issue first.
+<!-- If you would like to contribute please make an issue first. Other members will be able to vote on your proposal for one week. The number of upvotes have to be at minimum 4x the number of downvotes. If your improvement gets accepted you can now make a pull request.-->
 
 1. [Fork this repository](https://github.com/noahliechti/web3-interview-preparation/fork)
 2. Clone your fork to your local environment with `git clone https://github.com/YOUR_USER_NAME/web3-interview-preparation`
