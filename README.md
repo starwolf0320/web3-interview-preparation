@@ -77,7 +77,7 @@ If you want you can also add additional questions and answers for the other sect
   - I use Anki, because of its space-repetition feature
   - Checkout my [Anki Card Templates](https://gist.github.com/noahliechti/d05444c0b4a8b0f25c44dd3c05e718d7)
 - Open your GitHub fork in the browser
-- In your editor (maybe you need a markdown preview plugin)
+- Use a markdown preview plugin in the code editor of your choice
 
 ### Process
 
@@ -151,6 +151,14 @@ There are a lot of great resources on how to get invited for an interview. Here 
 </details>
 <details>
   <summary>What are your greatest strengths?</summary>
+    <!-- <ul>
+      <li>
+        add answer here
+      </li>
+    </ul> -->
+</details>
+<details>
+  <summary>What is your favorite Web3 project at the moment? Why?</summary>
     <!-- <ul>
       <li>
         add answer here
@@ -1127,7 +1135,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>What are smart contracts?</summary>
     <ul>
       <li>
-        Smart contracts are computer code that when deployed onto the Ethereum platform run when predetermined conditions are met. The code can not be updated or deleted once deployed
+        A smart contract is a program that runs at an address on Ethereum. They're made up of data and functions that can execute upon receiving a transaction.
       </li>
     </ul>
 </details>
@@ -1241,19 +1249,13 @@ Employers like to ask questions related to your application. So go over your res
     </ul>
 </details>
 <details>
-  <summary>What are the types of Ethereum networks that exist?</summary>
+  <summary>What are the two types of Ethereum networks that exist?</summary>
     <ul>
       <li>
-        Mainnet
+        Public networks (Mainnet, test networks: Ropsten, Goerli, Kovan, Rinkeby)
       </li>
       <li>
-        Testnets: Ropsten, Goerli, Kovan, Rinkeby
-      </li>
-      <li>
-        Private networks (Enterprise Ethereum)
-      </li>
-      <li>
-        Local networks
+        Private networks (Enterprise Ethereum, local networks)
       </li>
     </ul>
 </details>
@@ -1477,6 +1479,10 @@ Employers like to ask questions related to your application. So go over your res
       <li>
         <p>Directly try out the solution in Remix <a href="https://remix.ethereum.org/?#code=Ly8gU1BEWC1MaWNlbnNlLUlkZW50aWZpZXI6IE1JVAoKcHJhZ21hIHNvbGlkaXR5IF4wLjguMDsKCmNvbnRyYWN0IFN0cmluZ0NvbXBhcmlzb24gewogICAgZnVuY3Rpb24gY29tcGFyZVN0cmluZ3Moc3RyaW5nIG1lbW9yeSBhLCBzdHJpbmcgbWVtb3J5IGIpIHB1YmxpYyBwdXJlIHJldHVybnMgKGJvb2wpIHsKICAgICAgICByZXR1cm4ga2VjY2FrMjU2KGFiaS5lbmNvZGVQYWNrZWQoYSkpID09IGtlY2NhazI1NihhYmkuZW5jb2RlUGFja2VkKGIpKTsKICAgIH0KfQ==">here</a></p>
       </li>
+      <!-- <li>
+        Followup: How could you optimize your solution if you know that you will compare a lot of strings with a different length?
+        TODO -> https://fravoll.github.io/solidity-patterns/string_equality_comparison.html
+      </li> -->
     </ul>
 
 </details>
