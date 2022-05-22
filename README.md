@@ -11,7 +11,7 @@
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](http://twitter.com/intent/tweet?text=Check%20out%20the%20complete%20Web3%20Interview%20Preparation%20Guide%20made%20by%20%40noahliechti&url=https://github.com/noahliechti/web3-interview-preparation)
 [![Fork](https://img.shields.io/github/forks/noahliechti/web3-interview-preparation?style=social)](https://github.com/noahliechti/web3-interview-preparation/fork)
 
-Finding a Web3 job that does not support remote work has become very rare. New challenges arose when companies switched to remote-first. Processes changed and there are new soft skills employers are looking for. This guide will prepare Web2 Devs switching to Web3, (bootcamp) graduates and self-taughts for their interviews.
+Finding a Web3 job that does not support remote work has become very rare. New challenges arose when companies switched to remote-first. Processes changed and there are new soft skills employers are looking for. This guide will prepare Web2 Devs switching to Web3, (bootcamp) graduates and self-thoughts for their interviews.
 
 > Although I spent a lot of time curating the answers I can not guarantee for their correctness.
 > If you find an error, please propose a solution by using [these](#how-to-contribute) step-by-step instructions
@@ -51,7 +51,7 @@ Finding a Web3 job that does not support remote work has become very rare. New c
 
 ## Why Should You Prepare
 
-Most of the people put more effort into building a great professional resume and they don't put enough effort to get ready for an interview. Being prepared will increase your chances to land your dream job by 176% (I just made that number up). Here are some benefits of being prepared:
+Most people put more effort into building a great professional resume and they don't put enough effort to get ready for an interview. Being prepared will increase your chances to land your dream job by 176% (I just made that number up). Here are some benefits of being prepared:
 
 - increased confidence
 - higher response quality
@@ -82,19 +82,19 @@ If you want you can also add additional questions and answers for the other sect
 ### Process
 
 1. Read question
-2. Answer question **out loud**
-3. Reveal answer and check it
+2. Answer the question **out loud**
+3. Reveal the answer and check it
 4. Rate how good your answer was (optional -> only applicable with flashcards)
 
 ## Get Invited For An Interview
 
 There are a lot of great resources on how to get invited for an interview. Here is my Web3 approach (worked every time so far):
 
-1. Find the GitHub account of the organization your applying for
+1. Find the GitHub account of the organization you are applying for
 2. Submit an issue or pull request that adds value
 3. Get in contact with employees on the company's discord channel
    1. Ask them about their experience working for the company
-   2. Mention you contribution and interest for the open position XYZ
+   2. Mention your contribution and interest for the open position XYZ
    3. Politely ask them to forward your resume to the person in charge
 
 ## Before The Interview
@@ -591,7 +591,7 @@ There are a lot of great resources on how to get invited for an interview. Here 
 
 ### Previous Experience Interview Questions
 
-Employers like to ask questions related to your application. So go over your resume and and think about 5 to 10 followup questions a potential employer could ask. Being prepared for such question shows that you know what you were doing. Be ready to answer a bit more technical questions related to your recent experiences. Some examples:
+Employers like to ask questions related to your application. So go over your resume and think about 5 to 10 followup questions a potential employer could ask. Being prepared for such a question shows that you know what you were doing. Be ready to answer a bit more technical questions related to your recent experiences. Some examples:
 
 <details>
   <summary>Why did you choose to use [technology x] in your project? What were the advantages over similar packages?</summary>
@@ -1509,7 +1509,8 @@ Employers like to ask questions related to your application. So go over your res
 - There is a typo or an incorrect answer? Your correction is welcome
 - There is a question you would like to highlight, because it seems to pop up on many interviews?
 
-If you would like to contribute please make an issue first. Other members will be able to vote on your proposal for one week. The number of upvotes have to be at minimum 4x the number of downvotes. If your improvement gets accepted you can now make a pull request.
+For small updates directly make a pull request, for bigger ones consider opening an issue first.
+<!-- If you would like to contribute please make an issue first. Other members will be able to vote on your proposal for one week. The number of upvotes have to be at minimum 4x the number of downvotes. If your improvement gets accepted you can now make a pull request.-->
 
 1. [Fork this repository](https://github.com/noahliechti/web3-interview-preparation/fork)
 2. Clone your fork to your local environment with `git clone https://github.com/YOUR_USER_NAME/web3-interview-preparation`
