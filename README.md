@@ -1071,7 +1071,7 @@ Employers like to ask questions related to your application. So go over your res
   <summary>How large is the block size of Ethereum?</summary>
     <ul>
       <li>
-        2KB
+        Ethereum does not have a block size limit; blocks use gas limits
       </li>
     </ul>
 </details>
